@@ -1,0 +1,365 @@
+[
+    {
+      "id": 1,
+      "question": "Choose the correct phrasal verb: 'He finally ___ the truth.'",
+      "options": ["gave away", "gave up", "gave in", "gave out"],
+      "answer": "gave away",
+      "level": "B1",
+      "hint": "Means 'revealed something secretly'",
+      "example": "'Give out' can mean 'distribute'"
+    },
+    {
+      "id": 2,
+      "question": "Which is correct?",
+      "options": ["She has visited Paris last year", "She visited Paris last year", "She visits Paris last year", "She had visit Paris last year"],
+      "answer": "She visited Paris last year",
+      "level": "B1",
+      "hint": "Past simple for finished time expressions",
+      "example": "I met him yesterday"
+    },
+    {
+      "id": 3,
+      "question": "Complete: 'I’m looking forward ___ you.'",
+      "options": ["to see", "seeing", "to seeing", "see"],
+      "answer": "to seeing",
+      "level": "B1",
+      "hint": "'Look forward to' is followed by a noun or gerund",
+      "example": "I'm used to living in a city"
+    },
+    {
+      "id": 4,
+      "question": "Which is a synonym of 'happy'?",
+      "options": ["sad", "angry", "joyful", "tired"],
+      "answer": "joyful",
+      "level": "B1",
+      "hint": "Similar meaning",
+      "example": "Big and large are synonyms"
+    },
+    {
+      "id": 5,
+      "question": "Choose the reported speech: 'She said, \"I am tired.\"'",
+      "options": ["She said she is tired", "She said she was tired", "She says she was tired", "She said she tired"],
+      "answer": "She said she was tired",
+      "level": "B1",
+      "hint": "Change tenses in reported speech",
+      "example": "'I like it' → He said he liked it"
+    },
+    {
+      "id": 6,
+      "question": "Which is a formal way to say 'buy'?",
+      "options": ["obtain", "purchase", "grab", "pick"],
+      "answer": "purchase",
+      "level": "B1",
+      "hint": "Used in official documents",
+      "example": "The company purchased new equipment"
+    },
+    {
+      "id": 7,
+      "question": "Find the correct passive: 'They deliver newspapers every morning.'",
+      "options": ["Newspapers are delivered every morning", "Newspapers delivered every morning", "Newspapers is delivered every morning", "Newspapers are deliver every morning"],
+      "answer": "Newspapers are delivered every morning",
+      "level": "B1",
+      "hint": "Passive: be + past participle",
+      "example": "Letters are written every day"
+    },
+    {
+      "id": 8,
+      "question": "Which phrase expresses obligation?",
+      "options": ["must", "could", "might", "would"],
+      "answer": "must",
+      "level": "B1",
+      "hint": "Strong necessity",
+      "example": "You must wear a seatbelt"
+    },
+    {
+      "id": 9,
+      "question": "Choose the correct sentence.",
+      "options": ["He can't plays tennis", "He can't play tennis", "He can playing tennis", "He can't to play tennis"],
+      "answer": "He can't play tennis",
+      "level": "B1",
+      "hint": "Modal verb + base form",
+      "example": "She can swim"
+    },
+    {
+      "id": 10,
+      "question": "Select the correct comparative: 'This book is ___ than that one.'",
+      "options": ["more interesting", "interestinger", "most interesting", "more interest"],
+      "answer": "more interesting",
+      "level": "B1",
+      "hint": "Long adjectives: more + adjective",
+      "example": "more beautiful"
+    },
+    {
+      "id": 11,
+      "question": "Which form is the past perfect?",
+      "options": ["I have eaten", "I had eaten", "I eating", "I eat"],
+      "answer": "I had eaten",
+      "level": "B2",
+      "hint": "'had' + past participle",
+      "example": "I had left before it started raining"
+    },
+    {
+      "id": 12,
+      "question": "Complete: 'By the time we arrived, the movie ___.'",
+      "options": ["ended", "had ended", "has ended", "ending"],
+      "answer": "had ended",
+      "level": "B2",
+      "hint": "Past perfect for earlier action",
+      "example": "The train had already left"
+    },
+    {
+      "id": 13,
+      "question": "Identify the correct inversion: '___ had he arrived when the meeting started.'",
+      "options": ["No sooner", "Hardly", "Scarcely", "Rarely"],
+      "answer": "No sooner",
+      "level": "B2",
+      "hint": "Used with 'than'",
+      "example": "No sooner had I sat down than she called"
+    },
+    {
+      "id": 14,
+      "question": "Which is an appropriate linking word for contrast?",
+      "options": ["However", "Therefore", "Moreover", "Consequently"],
+      "answer": "However",
+      "level": "B2",
+      "hint": "Contrast = opposite idea",
+      "example": "I was tired. However, I finished my homework"
+    },
+    {
+      "id": 15,
+      "question": "Choose the correct word order in questions.",
+      "options": ["You are coming?", "Are you coming?", "Coming are you?", "Are coming you?"],
+      "answer": "Are you coming?",
+      "level": "B2",
+      "hint": "Auxiliary + subject + verb",
+      "example": "Do you like pizza?"
+    },
+    {
+      "id": 16,
+      "question": "Find the correct relative clause: 'The man ___ lives next door is a doctor.'",
+      "options": ["which", "who", "whom", "whose"],
+      "answer": "who",
+      "level": "B2",
+      "hint": "Who = subject for people",
+      "example": "The girl who sings is my friend"
+    },
+    {
+      "id": 17,
+      "question": "Choose the correct collocation: 'A ___ apology.'",
+      "options": ["deep", "heavy", "strong", "profuse"],
+      "answer": "profuse",
+      "level": "B2",
+      "hint": "Means 'very abundant'",
+      "example": "She offered profuse thanks"
+    },
+    {
+      "id": 18,
+      "question": "Select the causative structure: 'I had my hair ___.'",
+      "options": ["cut", "cutting", "cuts", "to cut"],
+      "answer": "cut",
+      "level": "B2",
+      "hint": "Have + object + past participle",
+      "example": "She had her car repaired"
+    },
+    {
+      "id": 19,
+      "question": "Which is an example of a conditional sentence type 2?",
+      "options": ["If I win, I will travel", "If I won, I would travel", "If I had won, I would have traveled", "If I am winning, I will travel"],
+      "answer": "If I won, I would travel",
+      "level": "B2",
+      "hint": "Imaginary present situations",
+      "example": "If I were rich, I'd buy a yacht"
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct indirect question: 'Where does she live?'",
+      "options": ["I want to know where does she live", "I want to know where she lives", "I want to know where lives she", "I want to know where does she lives"],
+      "answer": "I want to know where she lives",
+      "level": "B2",
+      "hint": "No auxiliary verb in indirect questions",
+      "example": "Could you tell me where the station is?"
+    },
+    
+    {
+      "id": 21,
+      "question": "Identify the formal connector: 'He worked hard; ___, he succeeded.'",
+      "options": ["thus", "but", "so", "and"],
+      "answer": "thus",
+      "level": "C1",
+      "hint": "Means 'as a result'",
+      "example": "She studied diligently; thus, she passed"
+    },
+    {
+      "id": 22,
+      "question": "Which is a formal synonym for 'help'?",
+      "options": ["assist", "serve", "work", "fix"],
+      "answer": "assist",
+      "level": "C1",
+      "hint": "Common in academic writing",
+      "example": "We assist customers with technical issues"
+    },
+    {
+      "id": 23,
+      "question": "Find the sentence with correct parallelism.",
+      "options": ["She likes cooking, jogging, and to swim", "She likes cooking, jogging, and swimming", "She likes to cook, jogs, and swimming", "She likes cooking, to jog, and swimming"],
+      "answer": "She likes cooking, jogging, and swimming",
+      "level": "C1",
+      "hint": "Parallel structure = same form",
+      "example": "Reading, writing, and playing"
+    },
+    {
+      "id": 24,
+      "question": "Which word means 'short-lived'?",
+      "options": ["ephemeral", "perpetual", "eternal", "infinite"],
+      "answer": "ephemeral",
+      "level": "C1",
+      "hint": "Very brief duration",
+      "example": "An ephemeral success"
+    },
+    {
+      "id": 25,
+      "question": "Complete: 'She talks as if she ___ everything.'",
+      "options": ["knew", "knows", "know", "known"],
+      "answer": "knew",
+      "level": "C1",
+      "hint": "Unreal past",
+      "example": "He acts as if he were the boss"
+    },
+    {
+      "id": 26,
+      "question": "Which is an example of hedging?",
+      "options": ["It must rain tomorrow", "It might rain tomorrow", "It will rain tomorrow", "It rains tomorrow"],
+      "answer": "It might rain tomorrow",
+      "level": "C1",
+      "hint": "Hedging = expressing uncertainty",
+      "example": "She could possibly arrive late"
+    },
+    {
+      "id": 27,
+      "question": "Choose the reduced relative clause: 'The man ___ to us is a doctor.'",
+      "options": ["who spoke", "speaking", "spoken", "who was speaking"],
+      "answer": "speaking",
+      "level": "C1",
+      "hint": "Reduce active 'who is/was speaking'",
+      "example": "Students taking the exam must be quiet"
+    },
+    {
+      "id": 28,
+      "question": "Which word means 'make worse'?",
+      "options": ["exacerbate", "ameliorate", "rectify", "simplify"],
+      "answer": "exacerbate",
+      "level": "C1",
+      "hint": "Opposite of improve",
+      "example": "Pollution exacerbates health problems"
+    },
+    {
+      "id": 29,
+      "question": "Choose the correct formal verb: 'They ___ the report yesterday.'",
+      "options": ["compiled", "collected", "got", "gathered"],
+      "answer": "compiled",
+      "level": "C1",
+      "hint": "Means 'assemble information'",
+      "example": "They compiled the results"
+    },
+    {
+      "id": 30,
+      "question": "Select the correct register: 'I would be grateful if you could send me the details.'",
+      "options": ["Formal", "Informal", "Neutral", "Slang"],
+      "answer": "Formal",
+      "level": "C1",
+      "hint": "Used in emails and letters",
+      "example": "I look forward to hearing from you"
+    },
+    
+    {
+      "id": 31,
+      "question": "Which idiom means 'succeed at the last moment'?",
+      "options": ["by the skin of your teeth", "under the weather", "break a leg", "once in a blue moon"],
+      "answer": "by the skin of your teeth",
+      "level": "C2",
+      "hint": "Narrowly succeed",
+      "example": "He passed the exam by the skin of his teeth"
+    },
+    {
+      "id": 32,
+      "question": "Find the sentence with a nominalization.",
+      "options": ["The team succeeded", "The team achieved success", "The team is winning", "The team has won"],
+      "answer": "The team achieved success",
+      "level": "C2",
+      "hint": "Noun form of a verb",
+      "example": "'Decide' → 'decision'"
+    },
+    {
+      "id": 33,
+      "question": "Which is an emphatic structure?",
+      "options": ["It was John who broke the window", "John broke the window", "The window broke", "Who broke the window was John"],
+      "answer": "It was John who broke the window",
+      "level": "C2",
+      "hint": "It-cleft sentences",
+      "example": "It was Mary who called you"
+    },
+    {
+      "id": 34,
+      "question": "Choose the advanced connector: '___ the complexity, the problem was solved.'",
+      "options": ["Despite", "Because", "Since", "Due to"],
+      "answer": "Despite",
+      "level": "C2",
+      "hint": "Shows contrast",
+      "example": "Despite the rain, we played outside"
+    },
+    {
+      "id": 35,
+      "question": "Identify the causative passive: 'He had the car repaired.'",
+      "options": ["causative", "passive", "active", "modal"],
+      "answer": "causative",
+      "level": "C2",
+      "hint": "Have something done",
+      "example": "I had my house painted"
+    },
+    {
+      "id": 36,
+      "question": "Which word means 'spread widely'?",
+      "options": ["disseminate", "retract", "conceal", "withdraw"],
+      "answer": "disseminate",
+      "level": "C2",
+      "hint": "Used in academic contexts",
+      "example": "The findings were disseminated globally"
+    },
+    {
+      "id": 37,
+      "question": "Select the correct formal expression for disagreement.",
+      "options": ["I beg to differ", "You’re wrong", "No way", "That's stupid"],
+      "answer": "I beg to differ",
+      "level": "C2",
+      "hint": "Polite disagreement",
+      "example": "I beg to differ, but I believe otherwise"
+    },
+    {
+      "id": 38,
+      "question": "Choose the correct collocation: 'A ___ decision.'",
+      "options": ["momentous", "fast", "momentary", "quick"],
+      "answer": "momentous",
+      "level": "C2",
+      "hint": "Means very important",
+      "example": "A momentous event in history"
+    },
+    {
+      "id": 39,
+      "question": "Which sentence uses 'unless' correctly?",
+      "options": ["I'll go unless you coming", "I'll go unless you come", "I'll go unless you comes", "I'll go unless you to come"],
+      "answer": "I'll go unless you come",
+      "level": "C2",
+      "hint": "Use present simple after 'unless'",
+      "example": "Unless it rains, we'll go out"
+    },
+    {
+      "id": 40,
+      "question": "Identify the subjunctive use: 'If I were you, I would apologize.'",
+      "options": ["subjunctive", "indicative", "imperative", "infinitive"],
+      "answer": "subjunctive",
+      "level": "C2",
+      "hint": "Used for hypotheticals",
+      "example": "If I were rich, I'd travel the world"
+    }
+  ]
+  
