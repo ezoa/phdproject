@@ -1,0 +1,564 @@
+
+[
+  {
+    "id": 1,
+    "level": "C1",
+    "question": "Much of the neighbourhood was demolished in the 1940s when living ________ had deteriorated.",
+    "options": ["situations", "conditions", "circumstances", "states"],
+    "answer": "conditions",
+    "hint": "Think of the word commonly used to describe the quality of housing, health, or environment people live in.",
+    "example": "Many families lived in poor living conditions, with damp walls and no heating.",
+    "reference": "https://www.esl-lounge.com/student/advanced/cae-003-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "C1",
+    "question": "Scientists are yet to understand the full nutritional ________ of the humble olive.",
+    "options": ["favours", "helps", "goods", "benefits"],
+    "answer": "benefits",
+    "reference": "https://www.esl-lounge.com/student/advanced/cae-003-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "C1",
+    "question": "You can come and ________ us performing this operation, if you want.",
+    "options": ["discover", "gaze", "observe", "look"],
+    "answer": "observe",
+    "reference": "https://www.esl-lounge.com/student/advanced/cae-003-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "C1",
+    "question": "Bears used to be very ________ in this part of the country, but nobody has seen one for ten years.",
+    "options": ["sparse", "broad", "thorough", "widespread"],
+    "answer": "widespread",
+    "reference": "https://www.esl-lounge.com/student/advanced/cae-003-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "C1",
+    "question": "Ben was ________ to the court for jury duty, but took a doctor's note with him and was excused.",
+    "options": ["pulled", "assembled", "summoned", "requested"],
+    "answer": "summoned",
+    "reference": "https://www.esl-lounge.com/student/advanced/cae-003-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "C1",
+    "question": "The police ________ four states in pursuit of the bank robber.",
+    "options": ["crossed", "journeyed", "chased", "travelled"],
+    "answer": "crossed",
+    "reference": "https://www.esl-lounge.com/student/advanced/cae-003-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "C1",
+    "question": "After three years of ________, the country's economy is finally looking a lot healthier.",
+    "options": ["letdown", "demise", "overdraft", "recession"],
+    "answer": "recession",
+    "reference": "https://www.esl-lounge.com/student/advanced/cae-003-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "C1",
+    "question": "We altered our final ________ of yearly profits due to more accurate advertising and marketing costs.",
+    "options": ["forecast", "expectancy", "expectation", "wishes"],
+    "answer": "forecast",
+    "reference": "https://www.esl-lounge.com/student/advanced/cae-003-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "C1",
+    "question": "Lance is ________ knowledgeable on this subject.",
+    "options": ["smartly", "powerfully", "firmly", "highly"],
+    "answer": "highly",
+    "reference": "https://www.esl-lounge.com/student/advanced/cae-001-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "C1",
+    "question": "I need a good explanation of all the costs ________ in buying a new car.",
+    "options": ["affected", "involved", "concerned", "implied"],
+    "answer": "involved",
+    "reference": "https://www.esl-lounge.com/student/advanced/cae-001-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "C1",
+    "question": "There was a ________ debate about the Middle East, then they moved to a vote.",
+    "options": ["lively", "flexible", "main", "nimble"],
+    "answer": "lively",
+    "reference": "https://www.esl-lounge.com/student/advanced/cae-001-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "C1",
+    "question": "The doctor told him to lose weight quickly or pay the ________ later in life.",
+    "options": ["fee", "fine", "price", "cost"],
+    "answer": "price",
+    "reference": "https://www.esl-lounge.com/student/advanced/cae-001-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "C1",
+    "question": "Jet lag causes problems with our ________ clock.",
+    "options": ["biological", "botanical", "natural", "rhythmical"],
+    "answer": "biological",
+    "reference": "https://www.esl-lounge.com/student/advanced/cae-001-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "C1",
+    "question": "This species of seagull is not a ________ of the island, but will sometimes rest here a while.",
+    "options": ["neighbour", "national", "citizen", "resident"],
+    "answer": "resident",
+    "reference": "https://www.esl-lounge.com/student/advanced/cae-001-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "C1",
+    "question": "Doesn't it ________ you as strange that it's the middle of May and it's snowing?",
+    "options": ["hit", "occur", "strike", "touch"],
+    "answer": "strike",
+    "reference": "https://www.esl-lounge.com/student/advanced/cae-001-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "C1",
+    "question": "I didn't stay behind because I wanted to, I did so because it was my ________.",
+    "options": ["work", "duty", "shift", "chore"],
+    "answer": "duty",
+    "reference": "https://www.esl-lounge.com/student/advanced/cae-001-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "C1",
+    "question": "What angered me wasn't his resignation but the ________ in which he did it.",
+    "options": ["method", "manner", "aspect", "bearing"],
+    "answer": "manner",
+    "reference": "https://www.esl-lounge.com/student/advanced/cae-002-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "C1",
+    "question": "If you can't make ________ what's written, change the zoom level and it'll become clearer.",
+    "options": ["for", "off", "up", "out"],
+    "answer": "out",
+    "reference": "https://www.esl-lounge.com/student/advanced/cae-002-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "C1",
+    "question": "There's a ________ range of issues that we need to discuss as soon as possible.",
+    "options": ["far", "ample", "wide", "high"],
+    "answer": "wide",
+    "reference": "https://www.esl-lounge.com/student/advanced/cae-002-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "C1",
+    "question": "Despite being ________ in the battle, the soldier fought on and was awarded a medal for bravery.",
+    "options": ["enraged", "wounded", "flawed", "bruised"],
+    "answer": "wounded",
+    "reference": "https://www.esl-lounge.com/student/advanced/cae-002-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "C1",
+    "question": "The rain will ________ for most of the morning, but we are expecting a brighter afternoon.",
+    "options": ["persist", "insist", "resist", "consist"],
+    "answer": "persist",
+    "reference": "https://www.esl-lounge.com/student/advanced/cae-002-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "C1",
+    "question": "In the mating season, the male of the species calls out with a ________ gu-gu sound.",
+    "options": ["separate", "distinctive", "contrasting", "individual"],
+    "answer": "distinctive",
+    "reference": "https://www.esl-lounge.com/student/advanced/cae-002-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "C1",
+    "question": "Marie Curie, one of the best-known ________ in working with radiation, died in 1934.",
+    "options": ["debutants", "revolutionaries", "pioneers", "rebels"],
+    "answer": "pioneers",
+    "reference": "https://www.esl-lounge.com/student/advanced/cae-002-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "C1",
+    "question": "Deep sea oil exploration is a dirty and dangerous ________.",
+    "options": ["affair", "situation", "case", "business"],
+    "answer": "business",
+    "reference": "https://www.esl-lounge.com/student/advanced/cae-002-multiple-choice-cloze-exercise.php"
+  }
+  ,
+    {
+      "level": "C2",
+      "question": "The old house was ___________ furnished and we had to buy almost everything new.",
+      "options": ["thinly", "sparsely", "mildly", "rarely"],
+      "answer": "sparsely",
+      "reference": "https://www.esl-lounge.com/student/proficiency/cpe-001-multiple-choice-cloze-exercise.php"
+    },
+    {
+      "level": "C2",
+      "question": "The main way into the building is via High Street but there is also a(n) ___________ at the back used for deliveries.",
+      "options": ["way", "passage", "direction", "access"],
+      "answer": "access",
+      "reference": "https://www.esl-lounge.com/student/proficiency/cpe-001-multiple-choice-cloze-exercise.php"
+    },
+    {
+      "level": "C2",
+      "question": "I have been back to the doctor three times and he still hasn't ___________ the reason for all the pain I have been suffering from recently.",
+      "options": ["indicated", "highlighted", "pinpointed", "looked up"],
+      "answer": "pinpointed",
+      "reference": "https://www.esl-lounge.com/student/proficiency/cpe-001-multiple-choice-cloze-exercise.php"
+    },
+    {
+      "level": "C2",
+      "question": "You shouldn't have bought so many ___________ presents on this holiday. You won't have any money left when you go back home.",
+      "options": ["rich", "worthy", "invaluable", "lavish"],
+      "answer": "lavish",
+      "reference": "https://www.esl-lounge.com/student/proficiency/cpe-001-multiple-choice-cloze-exercise.php"
+    },
+    {
+      "level": "C2",
+      "question": "It's a long walk tomorrow. We need to ___________ as early as possible.",
+      "options": ["set off", "set up", "set in", "set about"],
+      "answer": "set off",
+      "reference": "https://www.esl-lounge.com/student/proficiency/cpe-001-multiple-choice-cloze-exercise.php"
+    },
+    {
+      "level": "C2",
+      "question": "Sometimes we don't appreciate the ___________ pleasures of life such as a beautiful sky, a cup of coffee with a friend, or seeing a good film at the cinema.",
+      "options": ["sheer", "normal", "simple", "plain"],
+      "answer": "simple",
+      "reference": "https://www.esl-lounge.com/student/proficiency/cpe-001-multiple-choice-cloze-exercise.php"
+    },
+    {
+      "level": "C2",
+      "question": "Even though she is 87, her mind is very ___________ and she is very aware of everything going on around her.",
+      "options": ["lively", "demanding", "lifelike", "alert"],
+      "answer": "alert",
+      "reference": "https://www.esl-lounge.com/student/proficiency/cpe-001-multiple-choice-cloze-exercise.php"
+    },
+    {
+      "level": "C2",
+      "question": "The captain decided to ___________ ship even though he thought there was no real danger of it sinking.",
+      "options": ["evacuate", "abandon", "desert", "evict"],
+      "answer": "abandon",
+      "reference": "https://www.esl-lounge.com/student/proficiency/cpe-001-multiple-choice-cloze-exercise.php"
+    },
+    {
+      "level": "C2",
+      "question": "If you continue to ___________ debts at this rate, you will have to declare bankruptcy eventually.",
+      "options": ["save", "raise", "default", "incur"],
+      "answer": "incur",
+      "reference": "https://www.esl-lounge.com/student/proficiency/cpe-001-multiple-choice-cloze-exercise.php"
+    },
+    {
+      "level": "C2",
+      "question": "The accidental ___________ of four listed buildings near the city centre caused a huge outcry and the manager of the building company was jailed for three months.",
+      "options": ["demolition", "disruption", "injuring", "squashing"],
+      "answer": "demolition",
+      "reference": "https://www.esl-lounge.com/student/proficiency/cpe-001-multiple-choice-cloze-exercise.php"
+    },
+      {
+        "level": "C2",
+        "question": "My company has just spent two million dollars ___________ a world famous artist to paint a huge mural for the main entrance foyer.",
+        "options": ["asking", "commissioning", "ordering", "consulting"],
+        "answer": "commissioning",
+        "reference": "https://www.esl-lounge.com/student/proficiency/cpe-002-multiple-choice-cloze-exercise.php"
+      },
+      {
+        "level": "C2",
+        "question": "During the riots, hundreds of people broke into the city's main department store and ___________ it. There was almost nothing left after the night had finished.",
+        "options": ["looted", "stole", "mugged", "conned"],
+        "answer": "looted",
+        "reference": "https://www.esl-lounge.com/student/proficiency/cpe-002-multiple-choice-cloze-exercise.php"
+      },
+      {
+        "level": "C2",
+        "question": "The new government group will ___________ the effects of smoking on the academic abilities of people under 18 years of age.",
+        "options": ["report", "inform", "research", "invent"],
+        "answer": "research",
+        "reference": "https://www.esl-lounge.com/student/proficiency/cpe-002-multiple-choice-cloze-exercise.php"
+      },
+      {
+        "level": "C2",
+        "question": "This fruit has been in the fridge for over three weeks! It is all ___________.",
+        "options": ["rotten", "sour", "bitter", "mouldy"],
+        "answer": "rotten",
+        "reference": "https://www.esl-lounge.com/student/proficiency/cpe-002-multiple-choice-cloze-exercise.php"
+      },
+      {
+        "level": "C2",
+        "question": "I don't think Jones and Marlowe should work together on this project. They have shown us before that they are quite ___________ as partners.",
+        "options": ["rebellious", "disinterested", "incompatible", "disagreeable"],
+        "answer": "incompatible",
+        "reference": "https://www.esl-lounge.com/student/proficiency/cpe-002-multiple-choice-cloze-exercise.php"
+      },
+      {
+        "level": "C2",
+        "question": "You have been ___________ with first degree murder. How do you plea?",
+        "options": ["accused", "blamed", "caused", "charged"],
+        "answer": "charged",
+        "reference": "https://www.esl-lounge.com/student/proficiency/cpe-002-multiple-choice-cloze-exercise.php"
+      },
+      {
+        "level": "C2",
+        "question": "That old house hasn't been lived in for nearly thirty years hence the fact that it looks so ___________.",
+        "options": ["decrepit", "derelict", "trashed", "rotten"],
+        "answer": "derelict",
+        "reference": "https://www.esl-lounge.com/student/proficiency/cpe-002-multiple-choice-cloze-exercise.php"
+      },
+      {
+        "level": "C2",
+        "question": "The great thing about this bank loan is that they give you so long to ___________.",
+        "options": ["pay it off", "pay it in", "give it up", "pay it up"],
+        "answer": "pay it off",
+        "reference": "https://www.esl-lounge.com/student/proficiency/cpe-002-multiple-choice-cloze-exercise.php"
+      },
+      {
+        "level": "C2",
+        "question": "We can't use this table as it isn't totally ___________. The balls will roll to one side.",
+        "options": ["plane", "vertical", "true", "flat"],
+        "answer": "flat",
+        "reference": "https://www.esl-lounge.com/student/proficiency/cpe-002-multiple-choice-cloze-exercise.php"
+      },
+      {
+        "level": "C2",
+        "question": "___________ me another beer, Des. Then I really must be going. It is quite late!",
+        "options": ["spill", "pour", "trickle", "fill"],
+        "answer": "pour",
+        "reference": "https://www.esl-lounge.com/student/proficiency/cpe-002-multiple-choice-cloze-exercise.php"
+      }
+    ,
+  {
+    "level": "C1",
+    "question": "You can exercise your ___________ to cancel the contract immediately, but you wouldn't receive any money at that point.",
+    "options": ["duty", "obligation", "possibility", "right"],
+    "answer": "right",
+    "reference": "https://www.esl-lounge.com/student/proficiency/cpe-003-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "C1",
+    "question": "We were all in ___________ of the fact that the new manager was our old friend Duncan.",
+    "options": ["awe", "surprise", "shock", "amazement"],
+    "answer": "awe",
+    "reference": "https://www.esl-lounge.com/student/proficiency/cpe-003-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "C1",
+    "question": "The icy road conditions ___________ in over twenty minor accidents this morning, but fortunately no-one was seriously injured.",
+    "options": ["caused", "culminated", "resulted", "blamed"],
+    "answer": "resulted",
+    "reference": "https://www.esl-lounge.com/student/proficiency/cpe-003-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "C1",
+    "question": "My uncle Warren is a thoroughly despicable character. His one ___________ feature is that he loves children.",
+    "options": ["saving", "recovering", "redeeming", "improved"],
+    "answer": "redeeming",
+    "reference": "https://www.esl-lounge.com/student/proficiency/cpe-003-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "C1",
+    "question": "I don't think anyone understood what I was saying at the meeting did they? I totally failed to get my point ___________.",
+    "options": ["around", "across", "about", "along"],
+    "answer": "across",
+    "reference": "https://www.esl-lounge.com/student/proficiency/cpe-003-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "C1",
+    "question": "There was a veritable ___________ of angry phone calls from members of the public complaining about the new controversial series on TV.",
+    "options": ["gale", "storm", "earthquake", "flood"],
+    "answer": "flood",
+    "reference": "https://www.esl-lounge.com/student/proficiency/cpe-003-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "C1",
+    "question": "The sales practices of this company will have to be totally ___________ if we are to save it.",
+    "options": ["overhauled", "overthrown", "overrun", "overwhelmed"],
+    "answer": "overhauled",
+    "reference": "https://www.esl-lounge.com/student/proficiency/cpe-003-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "C1",
+    "question": "For lunch, I always have something quick and easy: a sandwich, a salad, toast and the ___________.",
+    "options": ["same", "similar", "rest", "like"],
+    "answer": "like",
+    "reference": "https://www.esl-lounge.com/student/proficiency/cpe-003-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "C1",
+    "question": "The government announced today that they intend to ___________ the rise of crime in the inner cities by increasing police budgets in the areas most affected.",
+    "options": ["beat", "win", "counter", "retaliate"],
+    "answer": "counter",
+    "reference": "https://www.esl-lounge.com/student/proficiency/cpe-003-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "C1",
+    "question": "We weren't ___________ of the danger we were in until it was too late and the ice started to break. We are lucky to be alive!",
+    "options": ["alive", "alert", "aware", "awake"],
+    "answer": "aware",
+    "reference": "https://www.esl-lounge.com/student/proficiency/cpe-003-multiple-choice-cloze-exercise.php"
+  }
+,
+  {
+    "level": "B2",
+    "question": "This house is so old now. When it rains, the windows leak and the roof needs to be replaced soon. ___________ we love it and would never move to another.",
+    "options": ["although", "nevertheless", "though", "despite"],
+    "answer": "nevertheless",
+    "reference": "https://www.esl-lounge.com/student/grammar/3g34-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "B2",
+    "question": "You can't ignore this problem any longer. You have to ___________ with it so we can go on with the plan.",
+    "options": ["do", "solve", "beat", "deal"],
+    "answer": "deal",
+    "reference": "https://www.esl-lounge.com/student/grammar/3g34-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "B2",
+    "question": "I don't like watching soap operas and films on TV. I prefer documentaries with ___________ people talking about their lives.",
+    "options": ["reality", "authentic", "real", "genuine"],
+    "answer": "real",
+    "reference": "https://www.esl-lounge.com/student/grammar/3g34-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "B2",
+    "question": "Has someone moved the drinks ___________ the table while I was gone? I'm sure that glass in front of Peter was mine.",
+    "options": ["off", "along", "on", "around"],
+    "answer": "around",
+    "reference": "https://www.esl-lounge.com/student/grammar/3g34-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "B2",
+    "question": "We couldn't find the hotel and it was getting dark ___________ we got out a map and studied it carefully.",
+    "options": ["so", "and", "but", "if"],
+    "answer": "so",
+    "reference": "https://www.esl-lounge.com/student/grammar/3g34-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "B2",
+    "question": "Well, according to the timetable a bus should be along in ___________ two minutes. But I wouldn't be surprised if we had to wait another half an hour!",
+    "options": ["less", "about", "below", "round"],
+    "answer": "about",
+    "reference": "https://www.esl-lounge.com/student/grammar/3g34-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "B2",
+    "question": "Martin Jones, ___________ as the Gentle Bank Robber during his three-year reign, was jailed for 25 years today at the Central Court.",
+    "options": ["named", "reputed", "known", "called"],
+    "answer": "known",
+    "reference": "https://www.esl-lounge.com/student/grammar/3g34-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "B2",
+    "question": "I was born about 30km ___________ Rome but have always lived in Great Britain.",
+    "options": ["to", "from", "far", "near"],
+    "answer": "from",
+    "reference": "https://www.esl-lounge.com/student/grammar/3g34-multiple-choice-cloze-exercise.php"
+  }
+,
+  {
+    "level": "B2",
+    "question": "Don't wash that sweater in hot water, ___________ it will shrink.",
+    "options": ["unless", "otherwise", "if", "moreover"],
+    "answer": "otherwise",
+    "reference": "https://www.esl-lounge.com/student/first-certificate/fce-002-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "B2",
+    "question": "___________ the vacation we had the most wonderful weather imaginable. Sunshine all the way!",
+    "options": ["along", "moreover", "all in all", "throughout"],
+    "answer": "throughout",
+    "reference": "https://www.esl-lounge.com/student/first-certificate/fce-002-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "B2",
+    "question": "Police arrested a man late last night in connection with the murder. Police expect to charge the ___________ later this morning.",
+    "options": ["guilty", "condemned", "arrested", "suspect"],
+    "answer": "suspect",
+    "reference": "https://www.esl-lounge.com/student/first-certificate/fce-002-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "B2",
+    "question": "Right Mrs. Jones. Take these pills twice a day and if the problem ___________ more serious, come back and pay me a visit.",
+    "options": ["becomes", "goes", "turns", "develops"],
+    "answer": "becomes",
+    "reference": "https://www.esl-lounge.com/student/first-certificate/fce-002-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "B2",
+    "question": "When each group of tourists have paid the entrance fee, ___________ them with a picnic hamper and two parasols.",
+    "options": ["give", "provide", "lend", "give out"],
+    "answer": "provide",
+    "reference": "https://www.esl-lounge.com/student/first-certificate/fce-002-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "B2",
+    "question": "You are the only person in this company who ___________ access to both the staff phone list and the bank information of every employee. Please remember, it is a huge responsibility.",
+    "options": ["takes", "opens", "sees", "has"],
+    "answer": "has",
+    "reference": "https://www.esl-lounge.com/student/first-certificate/fce-002-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "B2",
+    "question": "We all just looked at the bill and then realised that ___________ wasn't even included! So we had to pay another 15% on top of that! I am never going back to that restaurant.",
+    "options": ["services", "serving", "service", "serves"],
+    "answer": "service",
+    "reference": "https://www.esl-lounge.com/student/first-certificate/fce-002-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "B2",
+    "question": "We got home to find the children ___________ down the marble hallway in their socks.",
+    "options": ["skidding", "falling", "sliding", "crashing"],
+    "answer": "sliding",
+    "reference": "https://www.esl-lounge.com/student/first-certificate/fce-002-multiple-choice-cloze-exercise.php"
+  },
+    {
+      "level": "B2",
+      "question": "Don't wash that sweater in hot water, ___________ it will shrink.",
+      "options": ["unless", "otherwise", "if", "moreover"],
+      "answer": "otherwise",
+      "reference": "https://www.esl-lounge.com/student/first-certificate/fce-002-multiple-choice-cloze-exercise.php"
+    },
+    {
+      "level": "B2",
+      "question": "___________ the vacation we had the most wonderful weather imaginable. Sunshine all the way!",
+      "options": ["along", "moreover", "all in all", "throughout"],
+      "answer": "throughout",
+      "reference": "https://www.esl-lounge.com/student/first-certificate/fce-002-multiple-choice-cloze-exercise.php"
+    },
+    {
+      "level": "B2",
+      "question": "Police arrested a man late last night in connection with the murder. Police expect to charge the ___________ later this morning.",
+      "options": ["guilty", "condemned", "arrested", "suspect"],
+      "answer": "suspect",
+      "reference": "https://www.esl-lounge.com/student/first-certificate/fce-002-multiple-choice-cloze-exercise.php"
+    },
+    {
+      "level": "B2",
+      "question": "Right Mrs. Jones. Take these pills twice a day and if the problem ___________ more serious, come back and pay me a visit.",
+      "options": ["becomes", "goes", "turns", "develops"],
+      "answer": "becomes",
+      "reference": "https://www.esl-lounge.com/student/first-certificate/fce-002-multiple-choice-cloze-exercise.php"
+    },
+    {
+      "level": "B2",
+      "question": "When each group of tourists have paid the entrance fee, ___________ them with a picnic hamper and two parasols.",
+      "options": ["give", "provide", "lend", "give out"],
+      "answer": "provide",
+      "reference": "https://www.esl-lounge.com/student/first-certificate/fce-002-multiple-choice-cloze-exercise.php"
+    },
+    {
+      "level": "B2",
+      "question": "You are the only person in this company who ___________ access to both the staff phone list and the bank information of every employee. Please remember, it is a huge responsibility.",
+      "options": ["takes", "opens", "sees", "has"],
+      "answer": "has",
+      "reference": "https://www.esl-lounge.com/student/first-certificate/fce-002-multiple-choice-cloze-exercise.php"
+    },
+    {
+      "level": "B2",
+      "question": "We all just looked at the bill and then realised that ___________ wasn't even included! So we had to pay another 15% on top of that! I am never going back to that restaurant.",
+      "options": ["services", "serving", "service", "serves"],
+      "answer": "service",
+      "reference": "https://www.esl-lounge.com/student/first-certificate/fce-002-multiple-choice-cloze-exercise.php"
+    },
+    {
+      "level": "B2",
+      "question": "We got home to find the children ___________ down the marble hallway in their socks.",
+      "options": ["skidding", "falling", "sliding", "crashing"],
+      "answer": "sliding",
+      "reference": "https://www.esl-lounge.com/student/first-certificate/fce-002-multiple-choice-cloze-exercise.php"
+    }
+  ]
+  
+
+
+
+    
+  
+
+
