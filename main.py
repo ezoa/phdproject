@@ -7,7 +7,7 @@ from collections import defaultdict
 from pathlib import Path
 
 # ————————————— Load & Group Questions —————————————————
-QUESTIONS_PATH = Path(__file__).parent / "question.json"
+QUESTIONS_PATH = Path(__file__).parent / "dataset.json"
 with open(QUESTIONS_PATH, "r", encoding="utf-8") as f:
     raw_questions = json.load(f)
 

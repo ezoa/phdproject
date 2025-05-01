@@ -1,0 +1,1203 @@
+[
+    {
+      "id": 1,
+      "level": "C1",
+      "question": "Much of the neighbourhood was demolished in the 1940s when living ________ had deteriorated.",
+      "options": ["situations", "conditions", "circumstances", "states"],
+      "answer": "conditions",
+      "hint": "Think of the word commonly used to describe the quality of housing, health, or environment people live in.",
+      "example": "Many families lived in poor living conditions, with damp walls and no heating.",
+      "reference": "https://www.esl-lounge.com/student/advanced/cae-003-multiple-choice-cloze-exercise.php"
+    },
+  {
+    "id": 2,
+    "level": "C1",
+    "question": "Scientists are yet to understand the full nutritional ________ of the humble olive.",
+    "options": ["favours", "helps", "goods", "benefits"],
+    "answer": "benefits",
+    "hint": "Think of a word meaning ‘advantages or positive effects’.",
+    "example": "Regular exercise has many health benefits, including improved cardiovascular fitness.",
+    "reference": "https://www.esl-lounge.com/student/advanced/cae-003-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "C1",
+    "question": "You can come and ________ us performing this operation, if you want.",
+    "options": ["discover", "gaze", "observe", "look"],
+    "answer": "observe",
+    "hint": "Choose the verb meaning ‘to watch something carefully’.",
+    "example": "Feel free to observe the surgeons as they carry out the transplant.",
+    "reference": "https://www.esl-lounge.com/student/advanced/cae-003-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "C1",
+    "question": "Bears used to be very ________ in this part of the country, but nobody has seen one for ten years.",
+    "options": ["sparse", "broad", "thorough", "widespread"],
+    "answer": "widespread",
+    "hint": "Look for an adjective meaning ‘found or happening over a large area’.",
+    "example": "Wildfires became widespread across the region after weeks of drought.",
+    "reference": "https://www.esl-lounge.com/student/advanced/cae-003-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "C1",
+    "question": "Ben was ________ to the court for jury duty, but took a doctor's note with him and was excused.",
+    "options": ["pulled", "assembled", "summoned", "requested"],
+    "answer": "summoned",
+    "hint": "Find the verb meaning ‘officially ordered to appear’.",
+    "example": "She was summoned by the board to explain the budget overrun.",
+    "reference": "https://www.esl-lounge.com/student/advanced/cae-003-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "C1",
+    "question": "The police ________ four states in pursuit of the bank robber.",
+    "options": ["crossed", "journeyed", "chased", "travelled"],
+    "answer": "crossed",
+    "hint": "Which verb best conveys ‘went from one side to the other’?  ",
+    "example": "They crossed the border at midnight to avoid detection.",
+    "reference": "https://www.esl-lounge.com/student/advanced/cae-003-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "C1",
+    "question": "After three years of ________, the country’s economy is finally looking a lot healthier.",
+    "options": ["letdown", "demise", "overdraft", "recession"],
+    "answer": "recession",
+    "hint": "This noun refers to a significant decline in economic activity.",
+    "example": "During the recession of 2008, many businesses went bankrupt.",
+    "reference": "https://www.esl-lounge.com/student/advanced/cae-003-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "C1",
+    "question": "We altered our final ________ of yearly profits due to more accurate advertising and marketing costs.",
+    "options": ["forecast", "expectancy", "expectation", "wishes"],
+    "answer": "forecast",
+    "hint": "Pick the noun meaning ‘an estimate or prediction about the future’.",
+    "example": "The sales forecast for next quarter has just been revised upward.",
+    "reference": "https://www.esl-lounge.com/student/advanced/cae-003-multiple-choice-cloze-exercise.php"
+  },
+  {
+    "level": "C1",
+    "question": "Lance is ________ knowledgeable on this subject.",
+    "options": ["smartly", "powerfully", "firmly", "highly"],
+    "answer": "highly",
+    "hint": "You need an adverb meaning ‘to a great degree’.",
+    "example": "She is highly respected for her research in molecular biology.",
+    "reference": "https://www.esl-lounge.com/student/advanced/cae-001-multiple-choice-cloze-exercise.php"
+  },
+    {
+      "level": "C1",
+      "question": "I need a good explanation of all the costs ________ in buying a new car.",
+      "options": ["affected", "involved", "concerned", "implied"],
+      "answer": "involved",
+      "hint": "Think of a word meaning ‘included or connected with’.",
+      "example": "When planning a vacation, you must consider all the expenses involved, including flights and accommodation.",
+      "reference": "https://www.esl-lounge.com/student/advanced/cae-001-multiple-choice-cloze-exercise.php"
+    },
+    {
+      "level": "C1",
+      "question": "There was a ________ debate about the Middle East, then they moved to a vote.",
+      "options": ["lively", "flexible", "main", "nimble"],
+      "answer": "lively",
+      "hint": "Choose the adjective meaning ‘full of energy and enthusiasm’.",
+      "example": "They had a lively discussion about climate change that lasted for hours.",
+      "reference": "https://www.esl-lounge.com/student/advanced/cae-001-multiple-choice-cloze-exercise.php"
+    },
+    {
+      "level": "C1",
+      "question": "The doctor told him to lose weight quickly or pay the ________ later in life.",
+      "options": ["fee", "fine", "price", "cost"],
+      "answer": "price",
+      "hint": "Pick the noun that refers to the negative consequences one must bear.",
+      "example": "If you ignore your health now, you’ll pay the price with serious illness in the future.",
+      "reference": "https://www.esl-lounge.com/student/advanced/cae-001-multiple-choice-cloze-exercise.php"
+    },
+    {
+      "level": "C1",
+      "question": "Jet lag causes problems with our ________ clock.",
+      "options": ["biological", "botanical", "natural", "rhythmical"],
+      "answer": "biological",
+      "hint": "Which adjective describes processes relating to living organisms?",
+      "example": "Our biological clock regulates sleep, hunger, and other bodily functions.",
+      "reference": "https://www.esl-lounge.com/student/advanced/cae-001-multiple-choice-cloze-exercise.php"
+    },
+    {
+      "level": "C1",
+      "question": "This species of seagull is not a ________ of the island, but will sometimes rest here a while.",
+      "options": ["neighbour", "national", "citizen", "resident"],
+      "answer": "resident",
+      "hint": "Select the noun meaning ‘one who lives somewhere permanently’.",
+      "example": "Although bears pass through occasionally, they are not residents of this valley.",
+      "reference": "https://www.esl-lounge.com/student/advanced/cae-001-multiple-choice-cloze-exercise.php"
+    },
+    {
+      "level": "C1",
+      "question": "Doesn't it ________ you as strange that it's the middle of May and it's snowing?",
+      "options": ["hit", "occur", "strike", "touch"],
+      "answer": "strike",
+      "hint": "Look for the verb meaning ‘to suddenly come into someone’s mind’.",
+      "example": "It strikes me as odd that the shop is closed on a weekday.",
+      "reference": "https://www.esl-lounge.com/student/advanced/cae-001-multiple-choice-cloze-exercise.php"
+    },
+    {
+      "level": "C1",
+      "question": "I didn't stay behind because I wanted to, I did so because it was my ________.",
+      "options": ["work", "duty", "shift", "chore"],
+      "answer": "duty",
+      "hint": "Pick the noun that means ‘a moral or legal obligation’.",
+      "example": "It was my duty to report the safety issue to my supervisor immediately.",
+      "reference": "https://www.esl-lounge.com/student/advanced/cae-001-multiple-choice-cloze-exercise.php"
+    },
+    {
+      "level": "C1",
+      "question": "What angered me wasn't his resignation but the ________ in which he did it.",
+      "options": ["method", "manner", "aspect", "bearing"],
+      "answer": "manner",
+      "hint": "Choose the noun meaning ‘way or style of doing something’.",
+      "example": "I was impressed by the professional manner in which she handled the complaint.",
+      "reference": "https://www.esl-lounge.com/student/advanced/cae-002-multiple-choice-cloze-exercise.php"
+    },
+    {
+      "level": "C1",
+      "question": "If you can't make ________ what's written, change the zoom level and it'll become clearer.",
+      "options": ["for", "off", "up", "out"],
+      "answer": "out",
+      "hint": "Select the particle used with ‘make’ to mean ‘understand’.",
+      "example": "I can’t make out the handwriting on this old letter.",
+      "reference": "https://www.esl-lounge.com/student/advanced/cae-002-multiple-choice-cloze-exercise.php"
+    },
+        {
+          "level": "C1",
+          "question": "There's a ________ range of issues that we need to discuss as soon as possible.",
+          "options": ["far", "ample", "wide", "high"],
+          "answer": "wide",
+          "hint": "Think of an adjective meaning ‘broad or extensive’.",
+          "example": "The company offers a wide range of services to meet all customer needs.",
+          "reference": "https://www.esl-lounge.com/student/advanced/cae-002-multiple-choice-cloze-exercise.php"
+        },
+        {
+          "level": "C1",
+          "question": "Despite being ________ in the battle, the soldier fought on and was awarded a medal for bravery.",
+          "options": ["enraged", "wounded", "flawed", "bruised"],
+          "answer": "wounded",
+          "hint": "Choose the past participle meaning ‘injured by a weapon’.",
+          "example": "He was badly wounded but refused to retreat.",
+          "reference": "https://www.esl-lounge.com/student/advanced/cae-002-multiple-choice-cloze-exercise.php"
+        },
+        {
+          "level": "C1",
+          "question": "The rain will ________ for most of the morning, but we are expecting a brighter afternoon.",
+          "options": ["persist", "insist", "resist", "consist"],
+          "answer": "persist",
+          "hint": "Find the verb meaning ‘to continue despite difficulty or opposition’.",
+          "example": "Her cough persisted for weeks before she saw a doctor.",
+          "reference": "https://www.esl-lounge.com/student/advanced/cae-002-multiple-choice-cloze-exercise.php"
+        },
+        {
+          "level": "C1",
+          "question": "In the mating season, the male of the species calls out with a ________ gu-gu sound.",
+          "options": ["separate", "distinctive", "contrasting", "individual"],
+          "answer": "distinctive",
+          "hint": "Select the adjective meaning ‘clearly different from others’.",
+          "example": "The bird’s distinctive call could be heard at dawn.",
+          "reference": "https://www.esl-lounge.com/student/advanced/cae-002-multiple-choice-cloze-exercise.php"
+        },
+        {
+          "level": "C1",
+          "question": "Marie Curie, one of the best-known ________ in working with radiation, died in 1934.",
+          "options": ["debutants", "revolutionaries", "pioneers", "rebels"],
+          "answer": "pioneers",
+          "hint": "Think of people who are first to explore or develop something.",
+          "example": "The pioneers of aviation paved the way for modern air travel.",
+          "reference": "https://www.esl-lounge.com/student/advanced/cae-002-multiple-choice-cloze-exercise.php"
+        },
+        {
+          "level": "C1",
+          "question": "Deep sea oil exploration is a dirty and dangerous ________.",
+          "options": ["affair", "situation", "case", "business"],
+          "answer": "business",
+          "hint": "Pick the noun meaning ‘an activity or trade’.",
+          "example": "Logging in remote forests can be a risky business.",
+          "reference": "https://www.esl-lounge.com/student/advanced/cae-002-multiple-choice-cloze-exercise.php"
+        },
+        {
+          "level": "C2",
+          "question": "The old house was ___________ furnished and we had to buy almost everything new.",
+          "options": ["thinly", "sparsely", "mildly", "rarely"],
+          "answer": "sparsely",
+          "hint": "Choose the adverb meaning ‘in a thin or scattered manner’.",
+          "example": "The desert is sparsely populated compared to coastal regions.",
+          "reference": "https://www.esl-lounge.com/student/proficiency/cpe-001-multiple-choice-cloze-exercise.php"
+        },
+        {
+          "level": "C2",
+          "question": "The main way into the building is via High Street but there is also a(n) ___________ at the back used for deliveries.",
+          "options": ["way", "passage", "direction", "access"],
+          "answer": "access",
+          "hint": "Find the noun meaning ‘means of approach or entry’.",
+          "example": "Employees use the side entrance for access to the loading bay.",
+          "reference": "https://www.esl-lounge.com/student/proficiency/cpe-001-multiple-choice-cloze-exercise.php"
+        },
+        {
+          "level": "C2",
+          "question": "I have been back to the doctor three times and he still hasn't ___________ the reason for all the pain I have been suffering from recently.",
+          "options": ["indicated", "highlighted", "pinpointed", "looked up"],
+          "answer": "pinpointed",
+          "hint": "Select the verb meaning ‘identify or locate exactly’.",
+          "example": "The engineer pinpointed the root cause of the system failure.",
+          "reference": "https://www.esl-lounge.com/student/proficiency/cpe-001-multiple-choice-cloze-exercise.php"
+        },
+        {
+          "level": "C2",
+          "question": "You shouldn't have bought so many ___________ presents on this holiday. You won't have any money left when you go back home.",
+          "options": ["rich", "worthy", "invaluable", "lavish"],
+          "answer": "lavish",
+          "hint": "Pick the adjective meaning ‘very generous or extravagant’.",
+          "example": "They threw a lavish party to celebrate their anniversary.",
+          "reference": "https://www.esl-lounge.com/student/proficiency/cpe-001-multiple-choice-cloze-exercise.php"
+        },
+        {
+          "level": "C2",
+          "question": "It's a long walk tomorrow. We need to ___________ as early as possible.",
+          "options": ["set off", "set up", "set in", "set about"],
+          "answer": "set off",
+          "hint": "Choose the phrasal verb meaning ‘begin a journey’.",
+          "example": "We set off at dawn to avoid the midday heat.",
+          "reference": "https://www.esl-lounge.com/student/proficiency/cpe-001-multiple-choice-cloze-exercise.php"
+        },
+        {
+          "level": "C2",
+          "question": "Sometimes we don't appreciate the ___________ pleasures of life such as a beautiful sky, a cup of coffee with a friend, or seeing a good film at the cinema.",
+          "options": ["sheer", "normal", "simple", "plain"],
+          "answer": "simple",
+          "hint": "Find the adjective meaning ‘uncomplicated or ordinary’.",
+          "example": "She savors the simple joys of a quiet morning walk.",
+          "reference": "https://www.esl-lounge.com/student/proficiency/cpe-001-multiple-choice-cloze-exercise.php"
+        },
+        {
+          "level": "C2",
+          "question": "Even though she is 87, her mind is very ___________ and she is very aware of everything going on around her.",
+          "options": ["lively", "demanding", "lifelike", "alert"],
+          "answer": "alert",
+          "hint": "Pick the adjective meaning ‘quick to notice and respond’.",
+          "example": "He stayed alert throughout the entire meeting.",
+          "reference": "https://www.esl-lounge.com/student/proficiency/cpe-001-multiple-choice-cloze-exercise.php"
+        },
+        {
+          "level": "C2",
+          "question": "The captain decided to ___________ ship even though he thought there was no real danger of it sinking.",
+          "options": ["evacuate", "abandon", "desert", "evict"],
+          "answer": "abandon",
+          "hint": "Choose the verb meaning ‘leave something behind permanently’.",
+          "example": "They had to abandon the car when it broke down on the highway.",
+          "reference": "https://www.esl-lounge.com/student/proficiency/cpe-002-multiple-choice-cloze-exercise.php"
+        },
+        {
+          "level": "C2",
+          "question": "If you continue to ___________ debts at this rate, you will have to declare bankruptcy eventually.",
+          "options": ["save", "raise", "default", "incur"],
+          "answer": "incur",
+          "hint": "Find the verb meaning ‘become subject to something (usually unpleasant)’.",
+          "example": "He incurred heavy expenses during his research trip.",
+          "reference": "https://www.esl-lounge.com/student/proficiency/cpe-002-multiple-choice-cloze-exercise.php"
+        },
+        {
+          "level": "C2",
+          "question": "The accidental ___________ of four listed buildings near the city centre caused a huge outcry and the manager of the building company was jailed for three months.",
+          "options": ["demolition", "disruption", "injuring", "squashing"],
+          "answer": "demolition",
+          "hint": "Select the noun meaning ‘the act of destroying buildings’.",
+          "example": "The demolition of the old bridge took several weeks to complete.",
+          "reference": "https://www.esl-lounge.com/student/proficiency/cpe-002-multiple-choice-cloze-exercise.php"
+        },
+        {
+          "level": "C2",
+          "question": "My company has just spent two million dollars ___________ a world famous artist to paint a huge mural for the main entrance foyer.",
+          "options": ["asking", "commissioning", "ordering", "consulting"],
+          "answer": "commissioning",
+          "hint": "Pick the gerund meaning ‘engaging someone to produce something’.",
+          "example": "They are commissioning a sculptor to create a new public artwork.",
+          "reference": "https://www.esl-lounge.com/student/proficiency/cpe-002-multiple-choice-cloze-exercise.php"
+        },
+        {
+          "level": "C2",
+          "question": "During the riots, hundreds of people broke into the city's main department store and ___________ it. There was almost nothing left after the night had finished.",
+          "options": ["looted", "stole", "mugged", "conned"],
+          "answer": "looted",
+          "hint": "Choose the past tense verb meaning ‘stole goods during chaos’.",
+          "example": "Many shops were looted after the storm knocked out the power.",
+          "reference": "https://www.esl-lounge.com/student/proficiency/cpe-002-multiple-choice-cloze-exercise.php"
+        },
+        {
+          "level": "C2",
+          "question": "The new government group will ___________ the effects of smoking on the academic abilities of people under 18 years of age.",
+          "options": ["report", "inform", "research", "invent"],
+          "answer": "research",
+          "hint": "Select the verb meaning ‘carry out a systematic study’.",
+          "example": "The team will research water quality in urban areas.",
+          "reference": "https://www.esl-lounge.com/student/proficiency/cpe-002-multiple-choice-cloze-exercise.php"
+        },
+        {
+          "level": "C2",
+          "question": "This fruit has been in the fridge for over three weeks! It is all ___________.",
+          "options": ["rotten", "sour", "bitter", "mouldy"],
+          "answer": "rotten",
+          "hint": "Pick the adjective meaning ‘decayed or spoiled’.",
+          "example": "The apples were rotten and smelled awful.",
+          "reference": "https://www.esl-lounge.com/student/proficiency/cpe-002-multiple-choice-cloze-exercise.php"
+        },
+        {
+          "level": "C2",
+          "question": "I don't think Jones and Marlowe should work together on this project. They have shown us before that they are quite ___________ as partners.",
+          "options": ["rebellious", "disinterested", "incompatible", "disagreeable"],
+          "answer": "incompatible",
+          "hint": "Think of an adjective meaning ‘not able to work together harmoniously’.",
+          "example": "Their personalities were incompatible, leading to constant conflict.",
+          "reference": "https://www.esl-lounge.com/student/proficiency/cpe-002-multiple-choice-cloze-exercise.php"
+        },
+        {
+          "level": "C2",
+          "question": "You have been ___________ with first degree murder. How do you plea?",
+          "options": ["accused", "blamed", "caused", "charged"],
+          "answer": "charged",
+          "hint": "Choose the past participle meaning ‘officially accused of a crime’.",
+          "example": "He was charged with theft after the investigation concluded.",
+          "reference": "https://www.esl-lounge.com/student/proficiency/cpe-002-multiple-choice-cloze-exercise.php"
+        },
+        {
+          "level": "C2",
+          "question": "That old house hasn't been lived in for nearly thirty years hence the fact that it looks so ___________.",
+          "options": ["decrepit", "derelict", "trashed", "rotten"],
+          "answer": "derelict",
+          "hint": "Which adjective describes something in very poor condition from neglect?",
+          "example": "The dockyard lay derelict for decades before redevelopment.",
+          "reference": "https://www.esl-lounge.com/student/proficiency/cpe-002-multiple-choice-cloze-exercise.php"
+        },
+        {
+              "level": "C2",
+              "question": "The great thing about this bank loan is that they give you so long to ___________.",
+              "options": ["pay it off", "pay it in", "give it up", "pay it up"],
+              "answer": "pay it off",
+              "hint": "Think of a phrasal verb meaning ‘finish paying the debt completely’.",
+              "example": "With this mortgage, I can pay it off over 30 years at a low interest rate.",
+              "reference": "https://www.esl-lounge.com/student/proficiency/cpe-002-multiple-choice-cloze-exercise.php"
+            },
+            {
+              "level": "C2",
+              "question": "We can't use this table as it isn't totally ___________. The balls will roll to one side.",
+              "options": ["plane", "vertical", "true", "flat"],
+              "answer": "flat",
+              "hint": "Choose the adjective meaning ‘even and level’.",
+              "example": "Make sure the painting hangs on a completely flat surface.",
+              "reference": "https://www.esl-lounge.com/student/proficiency/cpe-002-multiple-choice-cloze-exercise.php"
+            },
+            {
+              "level": "C2",
+              "question": "___________ me another beer, Des. Then I really must be going. It is quite late!",
+              "options": ["spill", "pour", "trickle", "fill"],
+              "answer": "pour",
+              "hint": "Pick the verb meaning ‘to cause liquid to flow into a container’.",
+              "example": "Could you pour me a glass of water before you leave?",
+              "reference": "https://www.esl-lounge.com/student/proficiency/cpe-002-multiple-choice-cloze-exercise.php"
+            },
+            {
+              "level": "C1",
+              "question": "You can exercise your ___________ to cancel the contract immediately, but you wouldn't receive any money at that point.",
+              "options": ["duty", "obligation", "possibility", "right"],
+              "answer": "right",
+              "hint": "Which noun refers to a legal entitlement? ",
+              "example": "Under consumer law, you have the right to return faulty goods within 30 days.",
+              "reference": "https://www.esl-lounge.com/student/proficiency/cpe-003-multiple-choice-cloze-exercise.php"
+            },
+            {
+              "level": "C1",
+              "question": "We were all in ___________ of the fact that the new manager was our old friend Duncan.",
+              "options": ["awe", "surprise", "shock", "amazement"],
+              "answer": "awe",
+              "hint": "Select the noun meaning ‘a feeling of respectful wonder’.",
+              "example": "They looked on in awe as the orchestra began to play.",
+              "reference": "https://www.esl-lounge.com/student/proficiency/cpe-003-multiple-choice-cloze-exercise.php"
+            },
+            {
+              "level": "C1",
+              "question": "The icy road conditions ___________ in over twenty minor accidents this morning, but fortunately no-one was seriously injured.",
+              "options": ["caused", "culminated", "resulted", "blamed"],
+              "answer": "resulted",
+              "hint": "Pick the verb meaning ‘led to or ended in’.",
+              "example": "His hard work resulted in a promotion at the end of the year.",
+              "reference": "https://www.esl-lounge.com/student/proficiency/cpe-003-multiple-choice-cloze-exercise.php"
+            },
+            {
+              "level": "C1",
+              "question": "My uncle Warren is a thoroughly despicable character. His one ___________ feature is that he loves children.",
+              "options": ["saving", "recovering", "redeeming", "improved"],
+              "answer": "redeeming",
+              "hint": "Which adjective describes a positive trait that compensates for faults? ",
+              "example": "Her sense of humor is her only redeeming quality.",
+              "reference": "https://www.esl-lounge.com/student/proficiency/cpe-003-multiple-choice-cloze-exercise.php"
+            },
+            {
+              "level": "C1",
+              "question": "I don't think anyone understood what I was saying at the meeting did they? I totally failed to get my point ___________.",
+              "options": ["around", "across", "about", "along"],
+              "answer": "across",
+              "hint": "Choose the particle used with ‘get’ to mean ‘communicate effectively’.",
+              "example": "She found it hard to get her ideas across to the executive team.",
+              "reference": "https://www.esl-lounge.com/student/proficiency/cpe-003-multiple-choice-cloze-exercise.php"
+            },
+            {
+              "level": "C1",
+              "question": "There was a veritable ___________ of angry phone calls from members of the public complaining about the new controversial series on TV.",
+              "options": ["gale", "storm", "earthquake", "flood"],
+              "answer": "flood",
+              "hint": "Pick the noun that suggests a large, overwhelming quantity. ",
+              "example": "After the announcement, we received a flood of emails questioning the decision.",
+              "reference": "https://www.esl-lounge.com/student/proficiency/cpe-003-multiple-choice-cloze-exercise.php"
+            },
+            {
+              "level": "C1",
+              "question": "The sales practices of this company will have to be totally ___________ if we are to save it.",
+              "options": ["overhauled", "overthrown", "overrun", "overwhelmed"],
+              "answer": "overhauled",
+              "hint": "Which past participle means ‘completely renovated or restructured’? ",
+              "example": "After the scandal, the entire department was overhauled to restore trust.",
+              "reference": "https://www.esl-lounge.com/student/proficiency/cpe-003-multiple-choice-cloze-exercise.php"
+            },
+            {
+              "level": "C1",
+              "question": "For lunch, I always have something quick and easy: a sandwich, a salad, toast and the ___________.",
+              "options": ["same", "similar", "rest", "like"],
+              "answer": "like",
+              "hint": "Choose the word used informally to mean ‘things of that kind’. ",
+              "example": "On weekends I enjoy movies, music, and the like.",
+              "reference": "https://www.esl-lounge.com/student/proficiency/cpe-003-multiple-choice-cloze-exercise.php"
+            },
+            {
+              "level": "C1",
+              "question": "The government announced today that they intend to ___________ the rise of crime in the inner cities by increasing police budgets in the areas most affected.",
+              "options": ["beat", "win", "counter", "retaliate"],
+              "answer": "counter",
+              "hint": "Find the verb meaning ‘oppose or act against’. ",
+              "example": "They introduced new laws to counter the spread of fraudulent schemes.",
+              "reference": "https://www.esl-lounge.com/student/proficiency/cpe-003-multiple-choice-cloze-exercise.php"
+            },
+            {
+              "level": "C1",
+              "question": "We weren't ___________ of the danger we were in until it was too late and the ice started to break. We are lucky to be alive!",
+              "options": ["alive", "alert", "aware", "awake"],
+              "answer": "aware",
+              "hint": "Which adjective means ‘conscious or mindful of something’? ",
+              "example": "I wasn't aware of the deadline until my colleague reminded me.",
+              "reference": "https://www.esl-lounge.com/student/proficiency/cpe-003-multiple-choice-cloze-exercise.php"
+            },
+            {
+              "level": "B2",
+              "question": "This house is so old now. When it rains, the windows leak and the roof needs to be replaced soon. ___________ we love it and would never move to another.",
+              "options": ["although", "nevertheless", "though", "despite"],
+              "answer": "nevertheless",
+              "hint": "Pick the adverb meaning ‘in spite of that’. ",
+              "example": "The hike was tough; nevertheless, everyone enjoyed the view from the summit.",
+              "reference": "https://www.esl-lounge.com/student/grammar/3g34-multiple-choice-cloze-exercise.php"
+            },
+            {
+              "level": "B2",
+              "question": "You can't ignore this problem any longer. You have to ___________ with it so we can go on with the plan.",
+              "options": ["do", "solve", "beat", "deal"],
+              "answer": "deal",
+              "hint": "Which verb completes the phrasal verb ‘deal with’? ",
+              "example": "We need to deal with these customer complaints immediately.",
+              "reference": "https://www.esl-lounge.com/student/grammar/3g34-multiple-choice-cloze-exercise.php"
+            },
+            {
+              "level": "B2",
+              "question": "I don't like watching soap operas and films on TV. I prefer documentaries with ___________ people talking about their lives.",
+              "options": ["reality", "authentic", "real", "genuine"],
+              "answer": "real",
+              "hint": "Choose the adjective meaning ‘actually existing or true’. ",
+              "example": "I enjoy real stories more than fictional dramas.",
+              "reference": "https://www.esl-lounge.com/student/grammar/3g34-multiple-choice-cloze-exercise.php"
+            },
+            {
+              "level": "B2",
+              "question": "Has someone moved the drinks ___________ the table while I was gone? I'm sure that glass in front of Peter was mine.",
+              "options": ["off", "along", "on", "around"],
+              "answer": "around",
+              "hint": "Select the adverb meaning ‘to various places or positions’. ",
+              "example": "They moved the chairs around to make room for more guests.",
+              "reference": "https://www.esl-lounge.com/student/grammar/3g34-multiple-choice-cloze-exercise.php"
+            },
+            {
+              "level": "B2",
+              "question": "We couldn't find the hotel and it was getting dark ___________ we got out a map and studied it carefully.",
+              "options": ["so", "and", "but", "if"],
+              "answer": "so",
+              "hint": "Which conjunction expresses a result? ",
+              "example": "He forgot his umbrella, so he got soaked in the rain.",
+              "reference": "https://www.esl-lounge.com/student/grammar/3g34-multiple-choice-cloze-exercise.php"
+            },
+                {
+                  "level": "B2",
+                  "question": "Well, according to the timetable a bus should be along in ___________ two minutes. But I wouldn't be surprised if we had to wait another half an hour!",
+                  "options": ["less", "about", "below", "round"],
+                  "answer": "about",
+                  "hint": "Choose the adverb meaning ‘approximately’.",
+                  "example": "The meeting will start in about ten minutes, so please be ready.",
+                  "reference": "https://www.esl-lounge.com/student/grammar/3g34-multiple-choice-cloze-exercise.php"
+                },
+                {
+                  "level": "B2",
+                  "question": "Martin Jones, ___________ as the Gentle Bank Robber during his three-year reign, was jailed for 25 years today at the Central Court.",
+                  "options": ["named", "reputed", "known", "called"],
+                  "answer": "known",
+                  "hint": "Which past participle means ‘commonly called or recognized as’? ",
+                  "example": "She is known as the best pianist in town.",
+                  "reference": "https://www.esl-lounge.com/student/grammar/3g34-multiple-choice-cloze-exercise.php"
+                },
+                {
+                  "level": "B2",
+                  "question": "I was born about 30km ___________ Rome but have always lived in Great Britain.",
+                  "options": ["to", "from", "far", "near"],
+                  "answer": "from",
+                  "hint": "Select the preposition indicating separation or distance. ",
+                  "example": "He moved here from Canada when he was a child.",
+                  "reference": "https://www.esl-lounge.com/student/grammar/3g34-multiple-choice-cloze-exercise.php"
+                },
+                {
+                  "level": "B2",
+                  "question": "Don't wash that sweater in hot water, ___________ it will shrink.",
+                  "options": ["unless", "otherwise", "if", "moreover"],
+                  "answer": "otherwise",
+                  "hint": "Pick the conjunction meaning ‘or else’. ",
+                  "example": "Wear sunscreen, otherwise you'll get sunburned.",
+                  "reference": "https://www.esl-lounge.com/student/first-certificate/fce-002-multiple-choice-cloze-exercise.php"
+                },
+                {
+                  "level": "B2",
+                  "question": "___________ the vacation we had the most wonderful weather imaginable. Sunshine all the way!",
+                  "options": ["along", "moreover", "all in all", "throughout"],
+                  "answer": "throughout",
+                  "hint": "Choose the preposition meaning ‘during the entire period of’. ",
+                  "example": "Throughout the trip, we enjoyed clear skies and warm temperatures.",
+                  "reference": "https://www.esl-lounge.com/student/first-certificate/fce-002-multiple-choice-cloze-exercise.php"
+                },
+                {
+                  "level": "B2",
+                  "question": "Police arrested a man late last night in connection with the murder. Police expect to charge the ___________ later this morning.",
+                  "options": ["guilty", "condemned", "arrested", "suspect"],
+                  "answer": "suspect",
+                  "hint": "Which noun refers to someone believed to have committed a crime? ",
+                  "example": "The police brought the suspect in for questioning.",
+                  "reference": "https://www.esl-lounge.com/student/first-certificate/fce-002-multiple-choice-cloze-exercise.php"
+                },
+                {
+                  "level": "B2",
+                  "question": "Right Mrs. Jones. Take these pills twice a day and if the problem ___________ more serious, come back and pay me a visit.",
+                  "options": ["becomes", "goes", "turns", "develops"],
+                  "answer": "becomes",
+                  "hint": "Pick the verb meaning ‘starts to be’. ",
+                  "example": "Let me know if the pain becomes worse.",
+                  "reference": "https://www.esl-lounge.com/student/first-certificate/fce-002-multiple-choice-cloze-exercise.php"
+                },
+                {
+                  "level": "B2",
+                  "question": "When each group of tourists have paid the entrance fee, ___________ them with a picnic hamper and two parasols.",
+                  "options": ["give", "provide", "lend", "give out"],
+                  "answer": "provide",
+                  "hint": "Choose the verb meaning ‘supply or make available’. ",
+                  "example": "The hotel provides free breakfast to all guests.",
+                  "reference": "https://www.esl-lounge.com/student/first-certificate/fce-002-multiple-choice-cloze-exercise.php"
+                },
+                {
+                  "level": "B2",
+                  "question": "You are the only person in this company who ___________ access to both the staff phone list and the bank information of every employee. Please remember, it is a huge responsibility.",
+                  "options": ["takes", "opens", "sees", "has"],
+                  "answer": "has",
+                  "hint": "Which verb means ‘possesses’? ",
+                  "example": "She has the authority to approve all budgets.",
+                  "reference": "https://www.esl-lounge.com/student/first-certificate/fce-002-multiple-choice-cloze-exercise.php"
+                },
+                {
+                  "level": "B2",
+                  "question": "We all just looked at the bill and then realised that ___________ wasn't even included! So we had to pay another 15% on top of that! I am never going back to that restaurant.",
+                  "options": ["services", "serving", "service", "serves"],
+                  "answer": "service",
+                  "hint": "Choose the noun for the charge added by a restaurant. ",
+                  "example": "The menu price was £50, but the service charge made it £57.50.",
+                  "reference": "https://www.esl-lounge.com/student/first-certificate/fce-002-multiple-choice-cloze-exercise.php"
+                },
+                {
+                  "level": "B2",
+                  "question": "We got home to find the children ___________ down the marble hallway in their socks.",
+                  "options": ["skidding", "falling", "sliding", "crashing"],
+                  "answer": "sliding",
+                  "hint": "Pick the verb meaning ‘move smoothly over a surface’. ",
+                  "example": "He was sliding on the ice when he lost his balance.",
+                  "reference": "https://www.esl-lounge.com/student/first-certificate/fce-002-multiple-choice-cloze-exercise.php"
+                },
+                {
+                    "level": "B2",
+                      "question": "Don't wash that sweater in hot water, ___________ it will shrink.",
+                      "options": ["unless", "otherwise", "if", "moreover"],
+                      "answer": "otherwise",
+                      "hint": "Choose the conjunction meaning ‘or else’.",
+                      "example": "Take an umbrella, otherwise you'll get soaked in the rain.",
+                      "reference": "https://www.esl-lounge.com/student/first-certificate/fce-002-multiple-choice-cloze-exercise.php"
+                },
+                {
+                      "level": "B2",
+                      "question": "___________ the vacation we had the most wonderful weather imaginable. Sunshine all the way!",
+                      "options": ["along", "moreover", "all in all", "throughout"],
+                      "answer": "throughout",
+                      "hint": "Select the preposition meaning ‘during the entire period of’.",
+                      "example": "Throughout the concert, the crowd cheered enthusiastically.",
+                      "reference": "https://www.esl-lounge.com/student/first-certificate/fce-002-multiple-choice-cloze-exercise.php"
+               },
+                {
+                      "level": "B2",
+                      "question": "Police arrested a man late last night in connection with the murder. Police expect to charge the ___________ later this morning.",
+                      "options": ["guilty", "condemned", "arrested", "suspect"],
+                      "answer": "suspect",
+                      "hint": "Which noun refers to someone believed to have committed a crime?",
+                      "example": "Detectives brought the suspect in for further questioning.",
+                      "reference": "https://www.esl-lounge.com/student/first-certificate/fce-002-multiple-choice-cloze-exercise.php"
+                    },
+                    {
+                      "level": "B2",
+                      "question": "Right Mrs. Jones. Take these pills twice a day and if the problem ___________ more serious, come back and pay me a visit.",
+                      "options": ["becomes", "goes", "turns", "develops"],
+                      "answer": "becomes",
+                      "hint": "Pick the verb meaning ‘starts to be’.",
+                      "example": "Contact me if your headache becomes persistent.",
+                      "reference": "https://www.esl-lounge.com/student/first-certificate/fce-002-multiple-choice-cloze-exercise.php"
+                    },
+                    {
+                      "level": "B2",
+                      "question": "When each group of tourists have paid the entrance fee, ___________ them with a picnic hamper and two parasols.",
+                      "options": ["give", "provide", "lend", "give out"],
+                      "answer": "provide",
+                      "hint": "Choose the verb meaning ‘supply or make available’.",
+                      "example": "The company will provide all necessary safety equipment.",
+                      "reference": "https://www.esl-lounge.com/student/first-certificate/fce-002-multiple-choice-cloze-exercise.php"
+                    },
+                    {
+                      "level": "B2",
+                      "question": "You are the only person in this company who ___________ access to both the staff phone list and the bank information of every employee. Please remember, it is a huge responsibility.",
+                      "options": ["takes", "opens", "sees", "has"],
+                      "answer": "has",
+                      "hint": "Which verb means ‘possesses’?",
+                      "example": "Only the director has the authority to sign contracts.",
+                      "reference": "https://www.esl-lounge.com/student/first-certificate/fce-002-multiple-choice-cloze-exercise.php"
+                    },
+                    {
+                      "level": "B2",
+                      "question": "We all just looked at the bill and then realised that ___________ wasn't even included! So we had to pay another 15% on top of that! I am never going back to that restaurant.",
+                      "options": ["services", "serving", "service", "serves"],
+                      "answer": "service",
+                      "hint": "Select the noun for the charge added by a restaurant.",
+                      "example": "The food was excellent, but the service charge made it quite expensive.",
+                      "reference": "https://www.esl-lounge.com/student/first-certificate/fce-002-multiple-choice-cloze-exercise.php"
+                    },
+                    {
+                      "level": "B2",
+                      "question": "We got home to find the children ___________ down the marble hallway in their socks.",
+                      "options": ["skidding", "falling", "sliding", "crashing"],
+                      "answer": "sliding",
+                      "hint": "Pick the verb meaning ‘move smoothly over a surface’.",
+                      "example": "He was sliding across the ice when his skate caught a crack.",
+                      "reference": "https://www.esl-lounge.com/student/first-certificate/fce-002-multiple-choice-cloze-exercise.php"
+                    }
+                    ,
+
+                        {
+                          "level": "B1",
+                          "question": "Turkey has a border with Georgia, _____?",
+                          "options": ["isn't it", "haven't they", "hasn't it", "doesn't it"],
+                          "answer": "doesn't it",
+                          "hint": "Use a negative question tag for a present-simple fact about Turkey (it).",
+                          "example": "She works on Saturdays, doesn't she?",
+                          "reference": "https://www.englishtestsonline.com/questions-answers-test-b1-grammar-exercises/"
+                        },
+                        {
+                          "level": "B1",
+                          "question": "They never know where you are, _____?",
+                          "options": ["do they", "don't you", "will they", "aren't you"],
+                          "answer": "do they",
+                          "hint": "With 'never' in the main clause, use a positive tag.",
+                          "example": "You never call me on Sundays, do you?",
+                          "reference": "https://www.englishtestsonline.com/questions-answers-test-b1-grammar-exercises/"
+                        },
+                        {
+                          "level": "B1",
+                          "question": "They hadn't told us _____.",
+                          "options": [
+                            "where was the exam",
+                            "what time the exam was",
+                            "when was the exam going to start",
+                            "how long would the exam last"
+                          ],
+                          "answer": "what time the exam was",
+                          "hint": "In reported speech questions, the subject comes before the verb.",
+                          "example": "She didn't say where she had gone.",
+                          "reference": "https://www.englishtestsonline.com/questions-answers-test-b1-grammar-exercises/"
+                        },
+                        {
+                          "level": "B1",
+                          "question": "A: Are they going to give the party outdoors?\nB: I _____ think _____.",
+                          "options": ["do / not", "don't / so", "not / so", "don't / not"],
+                          "answer": "don't / so",
+                          "hint": "The correct phrase is 'I don't think so' to express doubt.",
+                          "example": "Will it rain tomorrow? I don't think so.",
+                          "reference": "https://www.englishtestsonline.com/questions-answers-test-b1-grammar-exercises/"
+                        },
+                        {
+                            "level": "B1",
+                            "question": "Let's fix a date for the next match, _____?",
+                            "options": ["isn't it", "do we", "can you", "shall we"],
+                            "answer": "shall we",
+                            "hint": "Use ‘shall we’ to make a suggestion including the listener.",
+                            "example": "Let’s go for a walk, shall we?",
+                            "reference": "https://www.englishtestsonline.com/questions-answers-test-b1-grammar-exercises/"
+                          },
+                          {
+                            "level": "B1",
+                            "question": "Don't make me wait for hours, _____?",
+                            "options": ["do you", "will you", "won't you", "don't you"],
+                            "answer": "will you",
+                            "hint": "After an imperative, use ‘will you’ for a polite request tag.",
+                            "example": "Close the door, will you?",
+                            "reference": "https://www.englishtestsonline.com/questions-answers-test-b1-grammar-exercises/"
+                          },
+                          {
+                            "level": "B1",
+                            "question": "Have you got any idea _____ the first prize?",
+                            "options": [
+                              "whose project has won",
+                              "how did they win",
+                              "who did they give",
+                              "if was it them who won"
+                            ],
+                            "answer": "whose project has won",
+                            "hint": "In an indirect question, use question word + subject + verb.",
+                            "example": "Do you know whose phone is ringing?",
+                            "reference": "https://www.englishtestsonline.com/questions-answers-test-b1-grammar-exercises/"
+                          },
+                          {
+                            "level": "B1",
+                            "question": "A: _____ do you eat out with your husband?\nB: Very rarely.",
+                            "options": ["Where", "How often", "How long", "What time"],
+                            "answer": "How often",
+                            "hint": "Use ‘how often’ to ask about frequency.",
+                            "example": "How often do you go to the gym?",
+                            "reference": "https://www.englishtestsonline.com/questions-answers-test-b1-grammar-exercises/"
+                          },
+                          {
+                            "level": "B1",
+                            "question": "_____ one do you like better – the one on the left or the one on the right?",
+                            "options": ["Which", "Where", "What", "Who's"],
+                            "answer": "Which",
+                            "hint": "Use ‘which’ to choose between a definite set of options.",
+                            "example": "Which shirt do you prefer, the blue one or the red one?",
+                            "reference": "https://www.englishtestsonline.com/questions-answers-test-b1-grammar-exercises/"
+                          },
+                          {
+                            "level": "B1",
+                            "question": "A: _____ helped you to finish the job so quickly?\nB: Jack did.",
+                            "options": ["Whose", "What", "Who", "Which"],
+                            "answer": "Who",
+                            "hint": "Use ‘who’ to ask about a person performing an action.",
+                            "example": "Who taught you to play the piano?",
+                            "reference": "https://www.englishtestsonline.com/questions-answers-test-b1-grammar-exercises/"
+                          },
+                          {
+                            "level": "B1",
+                            "question": "A: _____ did your family start this business?\nB: It must have been fifty years ago.",
+                            "options": ["How far", "How often", "How long", "How long ago"],
+                            "answer": "How long ago",
+                            "hint": "Use ‘how long ago’ to ask when in the past an action occurred.",
+                            "example": "How long ago did you move to this city?",
+                            "reference": "https://www.englishtestsonline.com/questions-answers-test-b1-grammar-exercises/"
+                          },
+                          {
+                            "level": "B1",
+                            "question": "A: _____ in Turkey do they grow hazelnuts?\nB: Usually in the Black Sea region.",
+                            "options": ["Why", "Where", "What", "When"],
+                            "answer": "Where",
+                            "hint": "Use ‘where’ to ask about a place.",
+                            "example": "Where do they produce the finest olive oil in Spain?",
+                            "reference": "https://www.englishtestsonline.com/questions-answers-test-b1-grammar-exercises/"
+                          },
+                          {
+                            "level": "B1",
+                            "question": "There was nothing you could do for the whole afternoon, _____?",
+                            "options": ["was there", "weren't there", "were they", "wasn't there"],
+                            "answer": "was there",
+                            "hint": "With a negative statement use a positive question tag.",
+                            "example": "He didn’t call you yesterday, did he?",
+                            "reference": "https://www.englishtestsonline.com/questions-answers-test-b1-grammar-exercises/"
+                          },
+                          {
+                            "level": "B1",
+                            "question": "They hardly ever take the bus to school, _____?",
+                            "options": ["don't they", "are they", "do they", "aren't they"],
+                            "answer": "do they",
+                            "hint": "With ‘hardly ever’ use a positive tag.",
+                            "example": "She rarely eats meat, does she?",
+                            "reference": "https://www.englishtestsonline.com/questions-answers-test-b1-grammar-exercises/"
+                          },
+                          {
+                            "level": "B1",
+                            "question": "Hand in the report by Friday, _____?",
+                            "options": ["are you", "do you", "aren't you", "won't you"],
+                            "answer": "won't you",
+                            "hint": "After an imperative, use ‘won’t you’ for a polite tag.",
+                            "example": "Pass me the salt, won’t you?",
+                            "reference": "https://www.englishtestsonline.com/questions-answers-test-b1-grammar-exercises/"
+                          },
+                
+                            {
+                              "level": "B1",
+                              "question": "Tell either your father or your mother to come and see me at school tomorrow Denis, _____?",
+                              "options": ["don't they", "will you", "will they", "shall we"],
+                              "answer": "will you",
+                              "hint": "After a directive asking someone to do something, use ‘will you’ for a polite tag.",
+                              "example": "Pass me the book, will you?",
+                              "reference": "https://www.englishtestsonline.com/questions-answers-test-b1-grammar-exercises/"
+                            },
+                            {
+                              "level": "B1",
+                              "question": "_____ it be great if you lived a few minutes' walk from your office?",
+                              "options": ["Wasn't", "Has not", "Would not", "Wouldn't"],
+                              "answer": "Wouldn't",
+                              "hint": "Use ‘wouldn't’ to express a hypothetical positive suggestion.",
+                              "example": "Wouldn't it be nice to have coffee on the balcony?",
+                              "reference": "https://www.englishtestsonline.com/questions-answers-test-b1-grammar-exercises/"
+                            },
+                            {
+                              "level": "B1",
+                              "question": "A: _____ questions did they get right on the test?\nB: Only one of them.",
+                              "options": ["How many", "How much", "Which", "What kind of"],
+                              "answer": "How many",
+                              "hint": "Use ‘how many’ to ask about countable items.",
+                              "example": "How many books did you read last month?",
+                              "reference": "https://www.englishtestsonline.com/questions-answers-test-b1-grammar-exercises/"
+                            },
+                            {
+                              "level": "B1",
+                              "question": "Could any of you tell me _____ they are planning to go this summer?",
+                              "options": ["what", "where", "how often", "how much"],
+                              "answer": "where",
+                              "hint": "Use ‘where’ to ask about a place or destination.",
+                              "example": "Do you know where the concert will be held?",
+                              "reference": "https://www.englishtestsonline.com/questions-answers-test-b1-grammar-exercises/"
+                            },
+                            {
+                              "level": "B1",
+                              "question": "A: _____ do you always come to work so late?\nB: Because I get stuck in a traffic jam every day.",
+                              "options": ["Where", "When", "Who", "Why"],
+                              "answer": "Why",
+                              "hint": "Use ‘why’ to ask for a reason.",
+                              "example": "Why did you cancel the meeting?",
+                              "reference": "https://www.englishtestsonline.com/questions-answers-test-b1-grammar-exercises/"
+                            }
+                          ,
+                          
+                            {
+                              "level": "B1",
+                              "question": "He prepared the dish ___________ fresh ingredients.",
+                              "options": ["to", "of", "with", "about"],
+                              "answer": "with",
+                              "hint": "Use the preposition that indicates the tool or materials used.",
+                              "example": "She painted the portrait with oil paints.",
+                              "reference": "https://www.esl-lounge.com/student/preliminary/pet-137-preliminary-reading-multiple-choice-cloze.php"
+                            },
+                            {
+                              "level": "B1",
+                              "question": "During the lessons, the teacher often writes on the ___________.",
+                              "options": ["desk", "chair", "window", "blackboard"],
+                              "answer": "blackboard",
+                              "hint": "Choose the large, dark surface used for writing in classrooms.",
+                              "example": "The students copied the notes from the blackboard into their notebooks.",
+                              "reference": "https://www.esl-lounge.com/student/preliminary/pet-137-preliminary-reading-multiple-choice-cloze.php"
+                            },
+                            {
+                              "level": "B1",
+                              "question": "My sister loves reading historical fiction ___________.",
+                              "options": ["leaflets", "movies", "books", "covers"],
+                              "answer": "books",
+                              "hint": "Pick the noun for written works bound in pages.",
+                              "example": "He borrowed three books from the library last week.",
+                              "reference": "https://www.esl-lounge.com/student/preliminary/pet-137-preliminary-reading-multiple-choice-cloze.php"
+                            },
+                            {
+                              "level": "B1",
+                              "question": "The meeting ___________ longer than expected.",
+                              "options": ["ended", "lasted", "taken", "done"],
+                              "answer": "lasted",
+                              "hint": "Use the verb that means ‘continued for a duration’.",
+                              "example": "The concert lasted for three hours.",
+                              "reference": "https://www.esl-lounge.com/student/preliminary/pet-137-preliminary-reading-multiple-choice-cloze.php"
+                            },
+                            {
+                              "level": "B1",
+                              "question": "I always ___________ to music while working.",
+                              "options": ["listen", "sing", "dance", "play"],
+                              "answer": "listen",
+                              "hint": "Choose the verb meaning ‘pay attention to sound’.",
+                              "example": "She likes to listen to podcasts during her commute.",
+                              "reference": "https://www.esl-lounge.com/student/preliminary/pet-137-preliminary-reading-multiple-choice-cloze.php"
+                            },
+                            {
+                              "level": "B1",
+                              "question": "Seeing her friend after a long time was a(n) ___________ experience.",
+                              "options": ["negative", "hard", "slow", "delightful"],
+                              "answer": "delightful",
+                              "hint": "Pick the adjective meaning ‘highly pleasing or enjoyable’.",
+                              "example": "The picnic by the lake was a delightful afternoon.",
+                              "reference": "https://www.esl-lounge.com/student/preliminary/pet-137-preliminary-reading-multiple-choice-cloze.php"
+                            },
+                                {
+                                  "level": "B1",
+                                  "question": "The ___________ was bustling with people shopping, working, and enjoying the various attractions.",
+                                  "options": ["region", "subway", "park", "city centre"],
+                                  "answer": "city centre",
+                                  "hint": "Pick the term for the central area of a town or city.",
+                                  "example": "We met at the city centre and then went for coffee at a nearby café.",
+                                  "reference": "https://www.esl-lounge.com/student/preliminary/pet-138-preliminary-reading-multiple-choice-cloze.php"
+                                },
+                                {
+                                  "level": "B1",
+                                  "question": "Not wanting to miss his train, he ___________ to the station.",
+                                  "options": ["hurried", "jumped", "walked", "relaxed"],
+                                  "answer": "hurried",
+                                  "hint": "Choose the past tense verb meaning ‘moved quickly’.",
+                                  "example": "She hurried home as soon as she finished work.",
+                                  "reference": "https://www.esl-lounge.com/student/preliminary/pet-138-preliminary-reading-multiple-choice-cloze.php"
+                                },
+                                {
+                                  "level": "B1",
+                                  "question": "We use a ___________ to erase pencil marks on paper.",
+                                  "options": ["ruler", "rubber", "compass", "corrector"],
+                                  "answer": "rubber",
+                                  "hint": "Select the British English word for ‘eraser’.",
+                                  "example": "I made a mistake and used my rubber to clean it up.",
+                                  "reference": "https://www.esl-lounge.com/student/preliminary/pet-138-preliminary-reading-multiple-choice-cloze.php"
+                                },
+                                {
+                                  "level": "B1",
+                                  "question": "The Eiffel Tower is a ___________ landmark in Paris.",
+                                  "options": ["best", "famous", "biggest", "great"],
+                                  "answer": "famous",
+                                  "hint": "Which adjective means ‘well known by many people’? ",
+                                  "example": "The Great Wall of China is a famous tourist attraction.",
+                                  "reference": "https://www.esl-lounge.com/student/preliminary/pet-138-preliminary-reading-multiple-choice-cloze.php"
+                                },
+                                {
+                                  "level": "B1",
+                                  "question": "After a long day at work, she was ___________ and went straight to bed.",
+                                  "options": ["quick", "fond", "tired", "positive"],
+                                  "answer": "tired",
+                                  "hint": "Choose the adjective meaning ‘in need of rest’.",
+                                  "example": "He felt tired after running five kilometers.",
+                                  "reference": "https://www.esl-lounge.com/student/preliminary/pet-138-preliminary-reading-multiple-choice-cloze.php"
+                                },
+                                {
+                                  "level": "B1",
+                                  "question": "Many ancient ___________ are studied by archaeologists.",
+                                  "options": ["bits", "stuff", "trends", "artefacts"],
+                                  "answer": "artefacts",
+                                  "hint": "Pick the noun for objects made by humans in past cultures.",
+                                  "example": "The museum’s collection includes pottery, tools, and other artefacts.",
+                                  "reference": "https://www.esl-lounge.com/student/preliminary/pet-138-preliminary-reading-multiple-choice-cloze.php"
+                                },
+        
+                                    {
+                                      "level": "B2",
+                                      "question": "If I hadn't overslept, I ______ on time.",
+                                      "options": ["will have been", "would have been", "will be"],
+                                      "answer": "would have been",
+                                      "hint": "In a third conditional, use 'would have' + past participle to express a past unreal result.",
+                                      "example": "If she had left earlier, she would have caught the bus.",
+                                      "reference": "https://www.esl-lounge.com/student/grammar/4g46-advanced-conditional-forms-multiple-choice.php"
+                                    },
+                                    {
+                                      "level": "B2",
+                                      "question": "If you had eaten a good breakfast, you______ so hungry now.",
+                                      "options": ["wouldn't be", "can't be", "won't be"],
+                                      "answer": "wouldn't be",
+                                      "hint": "A mixed conditional: past unreal condition with present result uses 'would' + base verb.",
+                                      "example": "If I had saved more money, I wouldn't be worried about my bills now.",
+                                      "reference": "https://www.esl-lounge.com/student/grammar/4g46-advanced-conditional-forms-multiple-choice.php"
+                                    },
+                                    {
+                                      "level": "B2",
+                                      "question": "I ______ that car if I had had more money at the time.",
+                                      "options": ["could have bought", "could buy", "will buy"],
+                                      "answer": "could have bought",
+                                      "hint": "Third conditional with 'could have' to express past ability not exercised.",
+                                      "example": "We could have traveled more if we had taken the extra days off.",
+                                      "reference": "https://www.esl-lounge.com/student/grammar/4g46-advanced-conditional-forms-multiple-choice.php"
+                                    },
+                                    {
+                                      "level": "B2",
+                                      "question": "That horse could have won the race if he ______ hurt his leg.",
+                                      "options": ["doesn't hurt", "hasn't hurt", "hadn't hurt"],
+                                      "answer": "hadn't hurt",
+                                      "hint": "Third conditional: use past perfect in the 'if' clause to show a past unreal situation.",
+                                      "example": "They could have finished on time if the car hadn't broken down.",
+                                      "reference": "https://www.esl-lounge.com/student/grammar/4g46-advanced-conditional-forms-multiple-choice.php"
+                                    },
+                                    {
+                                      "level": "B2",
+                                      "question": "If I ______ harder for the test I would have gotten a better grade.",
+                                      "options": ["had studied", "will study", "did study"],
+                                      "answer": "had studied",
+                                      "hint": "Use past perfect in an unreal past condition (third conditional).",
+                                      "example": "If he had practiced more, he would have performed better.",
+                                      "reference": "https://www.esl-lounge.com/student/grammar/4g46-advanced-conditional-forms-multiple-choice.php"
+                                    },
+                                    {
+                                      "level": "B2",
+                                      "question": "If it hadn't rained, we ______ to the park.",
+                                      "options": ["will have gone", "will go", "would have gone"],
+                                      "answer": "would have gone",
+                                      "hint": "Third conditional: past unreal condition with past unreal result.",
+                                      "example": "If they had called, we would have answered immediately.",
+                                      "reference": "https://www.esl-lounge.com/student/grammar/4g46-advanced-conditional-forms-multiple-choice.php"
+                                    },
+                                    {
+                                      "level": "B2",
+                                      "question": "If only we ______ the directions!",
+                                      "options": ["will follow", "did follow", "had followed"],
+                                      "answer": "had followed",
+                                      "hint": "Use past perfect after 'if only' for regret about the past.",
+                                      "example": "If only I had listened to your advice!",
+                                      "reference": "https://www.esl-lounge.com/student/grammar/4g46-advanced-conditional-forms-multiple-choice.php"
+                                    },
+                                    {
+                                      "level": "B2",
+                                      "question": "If the road hadn't been icy, we ______ an accident.",
+                                      "options": ["won't have", "wouldn't have had", "didn't have"],
+                                      "answer": "wouldn't have had",
+                                      "hint": "Third conditional negative result: 'wouldn't have' + past participle.",
+                                      "example": "If the power hadn't gone out, we wouldn't have had to leave early.",
+                                      "reference": "https://www.esl-lounge.com/student/grammar/4g46-advanced-conditional-forms-multiple-choice.php"
+                                    },
+                                    {
+                                      "level": "B2",
+                                      "question": "He would have gone to work if he ______ sick.",
+                                      "options": ["hadn't been", "won't be", "didn't be"],
+                                      "answer": "hadn't been",
+                                      "hint": "Use past perfect in the 'if' clause in a third conditional.",
+                                      "example": "They would have attended the event if they hadn't been ill.",
+                                      "reference": "https://www.esl-lounge.com/student/grammar/4g46-advanced-conditional-forms-multiple-choice.php"
+                                    },
+                                    {
+                                      "level": "B2",
+                                      "question": "If I had known you were coming, I ______ a cake.",
+                                      "options": ["will bake", "would have baked", "would bake"],
+                                      "answer": "would have baked",
+                                      "hint": "Third conditional: use 'would have' + past participle for past unreal actions.",
+                                      "example": "If I had seen you earlier, I would have called you.",
+                                      "reference": "https://www.esl-lounge.com/student/grammar/4g46-advanced-conditional-forms-multiple-choice.php"
+                                    },
+            
+                                        {
+                                          "level": "C2",
+                                          "question": "Does a member of the aristocracy still live?",
+                                          "options": ["Hampton Court", "Longleat", "Jubilee Park", "Hever Castle"],
+                                          "answer": "Longleat",
+                                          "hint": "Longleat House is still the home of the Thynn family, British aristocrats.",
+                                          "example": "Visitors to Longleat can tour both the famous safari park and the family’s stately home.",
+                                          "reference": "https://www.esl-lounge.com/student/proficiency/cpe-067-multiple-matching-english-mazes.php"
+                                        },
+                                        {
+                                          "level": "C2",
+                                          "question": "Is there a maze that was made to mark a special occasion?",
+                                          "options": ["Hampton Court", "Longleat", "Jubilee Park", "Hever Castle"],
+                                          "answer": "Jubilee Park",
+                                          "hint": "Jubilee Park maze was planted to commemorate a jubilee celebration.",
+                                          "example": "The Jubilee Park maze was laid out in 2012 to celebrate the Queen’s Diamond Jubilee.",
+                                          "reference": "https://www.esl-lounge.com/student/proficiency/cpe-067-multiple-matching-english-mazes.php"
+                                        },
+                                        {
+                                          "level": "C2",
+                                          "question": "Does the creator personally take care of the maze?",
+                                          "options": ["Hampton Court", "Longleat", "Jubilee Park", "Hever Castle"],
+                                          "answer": "Jubilee Park",
+                                          "hint": "The community gardener who planted Jubilee Park maze still tends it himself.",
+                                          "example": "Every spring, the gardener returns to Jubilee Park to prune the hedges he first laid out.",
+                                          "reference": "https://www.esl-lounge.com/student/proficiency/cpe-067-multiple-matching-english-mazes.php"
+                                        },
+                                        {
+                                          "level": "C2",
+                                          "question": "Is there a maze that was ridiculed — before getting its revenge?",
+                                          "options": ["Hampton Court", "Longleat", "Jubilee Park", "Hever Castle"],
+                                          "answer": "Hampton Court",
+                                          "hint": "Hampton Court maze was once mocked for being too simple, yet still confounds visitors.",
+                                          "example": "Though once called ‘child’s play’, the Hampton Court maze continues to puzzle adults today.",
+                                          "reference": "https://www.esl-lounge.com/student/proficiency/cpe-067-multiple-matching-english-mazes.php"
+                                        },
+                                        {
+                                          "level": "C2",
+                                          "question": "Is there a maze created by the youngest person?",
+                                          "options": ["Hampton Court", "Longleat", "Jubilee Park", "Hever Castle"],
+                                          "answer": "Longleat",
+                                          "hint": "The heir at Longleat designed a small children’s maze at age 12.",
+                                          "example": "At just 12 years old, the young Viscount Thynn planned the children’s labyrinth at Longleat.",
+                                          "reference": "https://www.esl-lounge.com/student/proficiency/cpe-067-multiple-matching-english-mazes.php"
+                                        },
+                                        {
+                                          "level": "C2",
+                                          "question": "Could tackling the maze prove a damp experience?",
+                                          "options": ["Hampton Court", "Longleat", "Jubilee Park", "Hever Castle"],
+                                          "answer": "Hever Castle",
+                                          "hint": "Hever Castle’s water maze surprises guests with hidden jets of water.",
+                                          "example": "Be careful in Hever Castle’s water maze—you never know when a jet of water will soak you.",
+                                          "reference": "https://www.esl-lounge.com/student/proficiency/cpe-067-multiple-matching-english-mazes.php"
+                                        },
+                                        {
+                                          "level": "C2",
+                                          "question": "Did a rich family create a maze?",
+                                          "options": ["Hampton Court", "Longleat", "Jubilee Park", "Hever Castle"],
+                                          "answer": "Hever Castle",
+                                          "hint": "The Astor family, wealthy American investors, laid out Hever Castle’s water maze.",
+                                          "example": "During the Astors’ ownership, Hever Castle’s gardens were expanded to include the water maze.",
+                                          "reference": "https://www.esl-lounge.com/student/proficiency/cpe-067-multiple-matching-english-mazes.php"
+                                        },
+                                        {
+                                          "level": "C2",
+                                          "question": "Is there a maze that a newlywed couple would perhaps like to visit?",
+                                          "options": ["Hampton Court", "Longleat", "Jubilee Park", "Hever Castle"],
+                                          "answer": "Jubilee Park",
+                                          "hint": "Jubilee Park has romantic seating areas at the center of its maze.",
+                                          "example": "Newlyweds often pause at the heart of Jubilee Park maze to enjoy a quiet moment together.",
+                                          "reference": "https://www.esl-lounge.com/student/proficiency/cpe-067-multiple-matching-english-mazes.php"
+                                        },
+                                        {
+                                          "level": "C2",
+                                          "question": "Does the maze include maps showing you how to get out?",
+                                          "options": ["Hampton Court", "Longleat", "Jubilee Park", "Hever Castle"],
+                                          "answer": "Longleat",
+                                          "hint": "Longleat provides printed maps at the entrance to help visitors navigate.",
+                                          "example": "Pick up a map by the entrance at Longleat maze before you venture inside.",
+                                          "reference": "https://www.esl-lounge.com/student/proficiency/cpe-067-multiple-matching-english-mazes.php"
+                                        },
+                                        {
+                                          "level": "C2",
+                                          "question": "Would you see yourself getting lost in the maze?",
+                                          "options": ["Hampton Court", "Longleat", "Jubilee Park", "Hever Castle"],
+                                          "answer": "Longleat",
+                                          "hint": "Longleat maze is notorious for its confusing twists that even locals get lost in.",
+                                          "example": "Many first-time visitors to Longleat admit they got hopelessly lost in the hedges.",
+                                          "reference": "https://www.esl-lounge.com/student/proficiency/cpe-067-multiple-matching-english-mazes.php"
+                                        }
+                                      
+                                      
+                                  
+                                  
+                              
+                              
+                          
+                          
+                        ]
+                      
+                      
+                  
+                  
