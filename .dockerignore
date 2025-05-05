@@ -1,0 +1,27 @@
+# Byte‑compiled / caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtualenvs, env files
+.venv/
+venv/
+.env
+.env.*
+
+# Git
+.git/
+.gitignore
+
+# Editor dirs / OS files
+.vscode/
+.idea/
+.DS_Store
+
+# Docker config (optional to ignore the compose and Dockerfile themselves)
+docker-compose.yml
+Dockerfile
+
+# Large or dynamic data you don’t want baked in
+recordings/
+*.log

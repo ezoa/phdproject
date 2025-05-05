@@ -1,0 +1,35 @@
+# version: '3.8'
+
+# services:
+#   web:
+#     build: .
+#     container_name: adaptive_test
+#     ports:
+#       - "8502:8501"
+#       - "3478:3478/udp"
+#     volumes:
+#       - ./recordings:/app/recordings  # persist recorded videos
+#       - .:/app                       # mount code for live reload if desired
+#     environment:
+#       - STREAMLIT_SERVER_HEADLESS=true
+#       - STREAMLIT_BROWSER_GATHER_USAGE_STATS=false
+
+version: '3.8'
+
+services:
+  web:
+    build: .
+    container_name: adaptive_test
+    ports:
+      - "8502:8501"
+      - "3478:3478/udp"
+    volumes:
+      - ./recordings:/app/recordings
+      - .:/app
+    environment:
+      - STREAMLIT_SERVER_HEADLESS=true
+      - STREAMLIT_BROWSER_GATHER_USAGE_STATS=false
+    sysctls:
+      net.ipv4.ip_local_port_range: "40000 40010"
+    cap_add:
+      - NET_ADMIN
