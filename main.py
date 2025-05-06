@@ -116,6 +116,7 @@ with col1:
     # ————————————— Stage: HELP —————————————————————
     elif st.session_state.stage == 'help':
         st.write("⏳ Choose one: 🧠 Hint, 📘 Example")
+
         c1, c2 = st.columns(2)
         with c1:
             if st.button("🧠 Hint"):
@@ -127,6 +128,7 @@ with col1:
         if st.session_state.choice:
             choice = st.session_state.choice
             help_elapsed = time.time() - st.session_state.help_time
+            st.write(q["question"])
             if help_elapsed <= 60:
                 if choice == 'hint':
                     st.info(f"Hint: {q['hint']}")
