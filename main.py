@@ -42,7 +42,7 @@ with col1:
         st.session_state.score = 0
         st.session_state.level = "B1"
         st.session_state.qcount = 0
-        st.session_state.maxq = 20
+        st.session_state.maxq = 21
         st.session_state.stage = 'ask'
         st.session_state.current_q = None
         st.session_state.start_time = None
@@ -50,6 +50,12 @@ with col1:
         st.session_state.choice = None
         st.session_state.confidence = None
         st.session_state.log = []
+        st.session_state.initial_answer = None
+        st.session_state.final_answer = None
+        # st.session_state.answer_time = None
+        # st.session_state.second_answer_time = None
+        st.session_state.hint_binary = 0
+        st.session_state.example_binary = 0
 
     if 'score' not in st.session_state:
         init_state()
